@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "21PvLRmdpbDUuJW3wjX3GrbPyC5cOW6MzKC/Ha4WoP/tPf9RvvOd9xnnoRISmGKV5DRlLWx5Hc5eJAUoycgIUA==",
+  "dgSpecHash": "uN5V89oBy3xhm8kMOclPXbMgPbU83UusEsbL/y4BALzsPNhcLiNNn8ohEvBiLrglEZ0W3txVJ+jbRvE2eOtyvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sajjad\\source\\repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
+  "projectFilePath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
