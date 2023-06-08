@@ -1,4 +1,5 @@
-﻿using _0_Framework.Application;
+﻿
+using _0_Framework.Application;
 using _0_FrameWork.Application;
 using ShopManagement.Application.Contracts.ProductCategory;
 using ShopManagement.Domain.ProductCategoryAgg;
@@ -15,7 +16,7 @@ namespace ShopManagement.Application
         private readonly IProductCategoryRepository _productCategoryRepository;
         public ProductCategoryApplication(IProductCategoryRepository productCategoryRepository)
         {
-            _productCategoryRepository= _productCategoryRepository;
+            _productCategoryRepository= productCategoryRepository;
         }
         public OprationResult Create(CreateProductCategory command)
         {
