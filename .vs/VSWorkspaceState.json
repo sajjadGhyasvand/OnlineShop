@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\OnlineShop",
+    "\\OnlineShop\\ShopManagement.Application.Contracts",
+    "\\OnlineShop\\ShopManagement.Application.Contracts\\ProductCategory"
   ],
-  "SelectedNode": "\\OnlineShop.sln",
+  "SelectedNode": "\\OnlineShop\\OnlineShop.sln",
   "PreviewInSolutionExplorer": false
 }
