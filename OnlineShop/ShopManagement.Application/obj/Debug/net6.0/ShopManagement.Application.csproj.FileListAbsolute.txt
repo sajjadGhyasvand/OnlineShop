@@ -1,0 +1,5 @@
+C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ShopManagement.Application\obj\Debug\net6.0\ShopManagement.Application.csproj.AssemblyReference.cache
+C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ShopManagement.Application\obj\Debug\net6.0\ShopManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ShopManagement.Application\obj\Debug\net6.0\ShopManagement.Application.AssemblyInfoInputs.cache
+C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ShopManagement.Application\obj\Debug\net6.0\ShopManagement.Application.AssemblyInfo.cs
+C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ShopManagement.Application\obj\Debug\net6.0\ShopManagement.Application.csproj.CoreCompileInputs.cache

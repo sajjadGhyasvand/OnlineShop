@@ -1,0 +1,12 @@
+C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\0_FrameWork\bin\Debug\net6.0\0_FrameWork.deps.json
+C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\0_FrameWork\bin\Debug\net6.0\0_FrameWork.dll
+C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\0_FrameWork\bin\Debug\net6.0\0_FrameWork.pdb
+C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\0_FrameWork\obj\Debug\net6.0\0_FrameWork.csproj.AssemblyReference.cache
+C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\0_FrameWork\obj\Debug\net6.0\0_FrameWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\0_FrameWork\obj\Debug\net6.0\0_FrameWork.AssemblyInfoInputs.cache
+C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\0_FrameWork\obj\Debug\net6.0\0_FrameWork.AssemblyInfo.cs
+C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\0_FrameWork\obj\Debug\net6.0\0_FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\0_FrameWork\obj\Debug\net6.0\0_FrameWork.dll
+C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\0_FrameWork\obj\Debug\net6.0\refint\0_FrameWork.dll
+C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\0_FrameWork\obj\Debug\net6.0\0_FrameWork.pdb
+C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\0_FrameWork\obj\Debug\net6.0\ref\0_FrameWork.dll

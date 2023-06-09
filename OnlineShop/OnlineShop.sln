@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopManagement.Application"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SM.Infrastructure", "SM.Infrastructure", "{017FE06C-4E98-47C4-93A0-D346B7B6F8FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopManagementInfrastructure.EFCore", "ShopManagementInfrastructure.EFCore\ShopManagementInfrastructure.EFCore.csproj", "{FCCEEA2F-689B-4DA9-9875-20D2E8309047}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopManagementInfrastructure.EFCore", "ShopManagementInfrastructure.EFCore\ShopManagementInfrastructure.EFCore.csproj", "{FCCEEA2F-689B-4DA9-9875-20D2E8309047}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopManagement.Configuration", "ShopManagement.Configuration\ShopManagement.Configuration.csproj", "{9D739B7D-325B-4091-AAAD-4624EE046FA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopManagement.Configuration", "ShopManagement.Configuration\ShopManagement.Configuration.csproj", "{9D739B7D-325B-4091-AAAD-4624EE046FA8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ShopManagement", "ShopManagement", "{5DEB02C7-099C-491D-8AA8-CA2F3B1ACB72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,9 +58,12 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{D91731CA-4420-4F96-8027-0EA1249B0026} = {5DEB02C7-099C-491D-8AA8-CA2F3B1ACB72}
 		{1F7FB1A7-FC4A-42B7-8046-170DF1B016E4} = {D91731CA-4420-4F96-8027-0EA1249B0026}
+		{6C87030A-116B-456E-92FE-EA1DC22D33B0} = {5DEB02C7-099C-491D-8AA8-CA2F3B1ACB72}
 		{718F706B-E38D-4027-949F-B4B065EDC5D1} = {6C87030A-116B-456E-92FE-EA1DC22D33B0}
 		{2D495F2B-E3C8-4287-991A-EA927CD82DD4} = {6C87030A-116B-456E-92FE-EA1DC22D33B0}
+		{017FE06C-4E98-47C4-93A0-D346B7B6F8FE} = {5DEB02C7-099C-491D-8AA8-CA2F3B1ACB72}
 		{FCCEEA2F-689B-4DA9-9875-20D2E8309047} = {017FE06C-4E98-47C4-93A0-D346B7B6F8FE}
 		{9D739B7D-325B-4091-AAAD-4624EE046FA8} = {017FE06C-4E98-47C4-93A0-D346B7B6F8FE}
 	EndGlobalSection
