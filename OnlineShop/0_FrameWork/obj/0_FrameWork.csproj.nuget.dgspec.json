@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sajjad\\source\\repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj": {}
+    "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sajjad\\source\\repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj": {
+    "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sajjad\\source\\repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj",
+        "projectUniqueName": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj",
         "projectName": "0_FrameWork",
-        "projectPath": "C:\\Users\\sajjad\\source\\repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj",
+        "projectPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj",
         "packagesPath": "C:\\Users\\sajjad\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sajjad\\source\\repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\obj\\",
         "projectStyle": "PackageReference",

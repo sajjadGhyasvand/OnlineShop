@@ -15,3 +15,5 @@ C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ShopManagement.Domain\obj\D
 C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\refint\ShopManagement.Domain.dll
 C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.pdb
 C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ref\ShopManagement.Domain.dll
+C:\Users\sajjad\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.runtimeconfig.json
+C:\Users\sajjad\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.genruntimeconfig.cache

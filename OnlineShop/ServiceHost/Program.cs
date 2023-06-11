@@ -4,7 +4,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-var connectionstring = builder.Configuration.GetConnectionString("OnlineShopDB");
+var connectionstring = builder.Configuration.GetConnectionString("LampshadeDb");
 ShopManagementBootstrapper.Configure(builder.Services, connectionstring);
 builder.Services.AddRazorPages();
 

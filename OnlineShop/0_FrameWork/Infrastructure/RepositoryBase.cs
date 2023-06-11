@@ -38,9 +38,9 @@ namespace _0_FrameWork.Infrastructure
             return _cotext.Set<T>().ToList();
         }
 
-        public void SaveChanges(T entity)
+        public void SaveChanges()
         {
-            throw new NotImplementedException();
+            _cotext.SaveChanges();
         }
     }
 }

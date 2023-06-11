@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0nRFGS0E2t/nMGX31vVva+K8pYGnQkXYlDaZNyY3x0nz5mJoGzd2yxKIEzFcoTFYS7ceYUNOFuPNl9/GnevEBw==",
+  "dgSpecHash": "Cp6nQ27FoYMso96WG+sFTDcHvGDttHobiDkFIznEgm6g07gySWIZ7gTfBRGxMLJxNCQCUQPbOF0JlR9JLLNLaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sajjad\\source\\repos\\OnlineShop_2\\OnlineShop\\ShopManagementInfrastructure.EFCore\\ShopManagementInfrastructure.EFCore.csproj",
+  "projectFilePath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ShopManagementInfrastructure.EFCore\\ShopManagementInfrastructure.EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sajjad\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sajjad\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
