@@ -21,14 +21,14 @@ namespace ShopManagement.Application
         public OprationResult Create(CreateProductCategory command)
         {
             var operation = new OprationResult();
-            if (_productCategoryRepository.Exist(x=>x.Name == command.Name))
+            if (_productCategoryRepository.Exists(x=>x.Name == command.Name))
                 return operation.Failed("امکان ثبت رکورد تکراری وجود ندارد");
             var slug = command.Slug.Slugify();
             var productCategory = new ProductCategory(command.Name,command.Picture,command.Description,
                command.MetaDescription,command.PictureTitle,command.PictureAlt,command.KeyWords, slug);
 
             _productCategoryRepository.Create(productCategory);
-            _productCategoryRepository.saveChanges();
+            _productCategoryRepository.SaveChanges();
             return operation.succedded();
         }
 
@@ -36,15 +36,15 @@ namespace ShopManagement.Application
         {
             var operation = new OprationResult();
             var slug = command.Slug.Slugify();
-            var productionCategory =_productCategoryRepository.GetById(command.Id);
+            var productionCategory =_productCategoryRepository.Get(command.Id);
             if (productionCategory != null)
                 return operation.Failed("یافت نشد");
-            if (_productCategoryRepository.Exist(x => x.Name == command.Name && x.Id != command.Id))
+            if (_productCategoryRepository.Exists(x => x.Name == command.Name && x.Id != command.Id))
                 return operation.Failed("یافت نشد");
             productionCategory.Edit(command.Name, command.Picture, command.Description,
                command.MetaDescription, command.PictureTitle, command.PictureAlt, command.KeyWords,
                slug);
-            _productCategoryRepository.saveChanges();
+            _productCategoryRepository.SaveChanges();
             return operation.succedded();
 
         }
