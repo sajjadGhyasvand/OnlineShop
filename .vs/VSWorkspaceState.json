@@ -3,9 +3,14 @@
     "",
     "\\OnlineShop",
     "\\OnlineShop\\0_FrameWork",
+    "\\OnlineShop\\ServiceHost",
+    "\\OnlineShop\\ServiceHost\\Areas",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shared",
     "\\OnlineShop\\ShopManagement.Application.Contracts",
     "\\OnlineShop\\ShopManagement.Application.Contracts\\ProductCategory"
   ],
-  "SelectedNode": "\\OnlineShop\\ShopManagement.Application.Contracts\\ProductCategory\\IProductCategoryApplication.cs",
+  "SelectedNode": "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
   "PreviewInSolutionExplorer": false
 }

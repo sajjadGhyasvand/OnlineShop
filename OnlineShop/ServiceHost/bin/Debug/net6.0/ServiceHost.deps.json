@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v6.0": {
       "ServiceHost/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "6.0.16",
           "ShopManagement.Configuration": "1.0.0"
         },
         "runtime": {
           "ServiceHost.dll": {}
+        }
+      },
+      "Humanizer.Core/2.8.26": {
+        "runtime": {
+          "lib/netstandard2.0/Humanizer.dll": {
+            "assemblyVersion": "2.8.0.0",
+            "fileVersion": "2.8.26.1919"
+          }
         }
       },
       "Microsoft.CSharp/4.5.0": {},
@@ -99,6 +108,18 @@
         }
       },
       "Microsoft.EntityFrameworkCore.Analyzers/6.0.16": {},
+      "Microsoft.EntityFrameworkCore.Design/6.0.16": {
+        "dependencies": {
+          "Humanizer.Core": "2.8.26",
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.16"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {
+            "assemblyVersion": "6.0.16.0",
+            "fileVersion": "6.0.1623.17009"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/6.0.16": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.16",
@@ -489,6 +510,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Humanizer.Core/2.8.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OiKusGL20vby4uDEswj2IgkdchC1yQ6rwbIkZDVBPIR6al2b7n3pC91elBul9q33KaBgRKhbZH3+2Ur4fnWx2A==",
+      "path": "humanizer.core/2.8.26",
+      "hashPath": "humanizer.core.2.8.26.nupkg.sha512"
+    },
     "Microsoft.CSharp/4.5.0": {
       "type": "package",
       "serviceable": true,
@@ -530,6 +558,13 @@
       "sha512": "sha512-gN2yqqz2R6jj80SUTc036cPPM6xv3e/T1qpQI8ZfWJG3hXjcISI93uZtnyLVpn1712SklQR1WMIZ/bGYUurjcA==",
       "path": "microsoft.entityframeworkcore.analyzers/6.0.16",
       "hashPath": "microsoft.entityframeworkcore.analyzers.6.0.16.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Design/6.0.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bcUqLiU1uMDy8RAQl1qE4k7BELP8MqoX0uJSMXXsyWUPTz3Hq6nU94Tp6+/wURaVndt/CB0COo0M5Bfh+vToLg==",
+      "path": "microsoft.entityframeworkcore.design/6.0.16",
+      "hashPath": "microsoft.entityframeworkcore.design.6.0.16.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Relational/6.0.16": {
       "type": "package",
