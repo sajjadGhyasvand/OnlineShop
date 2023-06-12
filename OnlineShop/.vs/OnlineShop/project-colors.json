@@ -20,27 +20,7 @@
       "ProjectGuid": "718f706b-e38d-4027-949f-b4b065edc5d1",
       "DisplayName": "ShopManagement.Application.Contracts",
       "ColorIndex": 2
-    },
-    "2d495f2b-e3c8-4287-991a-ea927cd82dd4": {
-      "ProjectGuid": "2d495f2b-e3c8-4287-991a-ea927cd82dd4",
-      "DisplayName": "ShopManagement.Application",
-      "ColorIndex": 3
-    },
-    "fcceea2f-689b-4da9-9875-20d2e8309047": {
-      "ProjectGuid": "fcceea2f-689b-4da9-9875-20d2e8309047",
-      "DisplayName": "ShopManagementInfrastructure.EFCore",
-      "ColorIndex": 4
-    },
-    "9d739b7d-325b-4091-aaad-4624ee046fa8": {
-      "ProjectGuid": "9d739b7d-325b-4091-aaad-4624ee046fa8",
-      "DisplayName": "ShopManagement.Configuration",
-      "ColorIndex": 5
-    },
-    "47a4c962-4daf-459e-9999-396002e49d46": {
-      "ProjectGuid": "47a4c962-4daf-459e-9999-396002e49d46",
-      "DisplayName": "ServiceHost",
-      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 3
 }

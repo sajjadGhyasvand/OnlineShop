@@ -14,7 +14,6 @@ namespace ShopManagementInfrastructure.EFCore
         public DbSet<ProductCategory> ProductCategories { get; set; }
         public ShopContext(DbContextOptions<ShopContext> options) : base(options)
         {
-
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

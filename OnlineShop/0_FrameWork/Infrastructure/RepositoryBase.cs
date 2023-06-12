@@ -40,7 +40,7 @@ namespace _0_FrameWork.Infrastructure
 
         public void SaveChanges()
         {
-             _cotext.SaveChanges();
+            _cotext.SaveChanges();
         }
     }
 }

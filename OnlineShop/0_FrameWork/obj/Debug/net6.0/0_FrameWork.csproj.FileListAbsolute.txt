@@ -10,14 +10,3 @@ C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\0_FrameWork\obj\Debug\net6.
 C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\0_FrameWork\obj\Debug\net6.0\refint\0_FrameWork.dll
 C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\0_FrameWork\obj\Debug\net6.0\0_FrameWork.pdb
 C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\0_FrameWork\obj\Debug\net6.0\ref\0_FrameWork.dll
-C:\Users\S.Ghiasvand\source\repos\OnlineShop\OnlineShop\0_FrameWork\bin\Debug\net6.0\0_FrameWork.deps.json
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\0_FrameWork\bin\Debug\net6.0\0_FrameWork.dll
-C:\Users\S.Ghiasvand\source\repos\OnlineShop\OnlineShop\0_FrameWork\bin\Debug\net6.0\ref\0_FrameWork.dll
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\0_FrameWork\bin\Debug\net6.0\0_FrameWork.pdb
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\0_FrameWork\obj\Debug\net6.0\0_FrameWork.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\0_FrameWork\obj\Debug\net6.0\0_FrameWork.AssemblyInfoInputs.cache
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\0_FrameWork\obj\Debug\net6.0\0_FrameWork.AssemblyInfo.cs
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\0_FrameWork\obj\Debug\net6.0\0_FrameWork.csproj.CoreCompileInputs.cache
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\0_FrameWork\obj\Debug\net6.0\0_FrameWork.dll
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\0_FrameWork\obj\Debug\net6.0\ref\0_FrameWork.dll
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\0_FrameWork\obj\Debug\net6.0\0_FrameWork.pdb
