@@ -586,11 +586,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sajjad\\source\\repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj",
+      "projectUniqueName": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj",
       "projectName": "0_FrameWork",
-      "projectPath": "C:\\Users\\sajjad\\source\\repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj",
+      "projectPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj",
       "packagesPath": "C:\\Users\\sajjad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sajjad\\source\\repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\obj\\",
+      "outputPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

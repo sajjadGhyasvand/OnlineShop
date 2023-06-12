@@ -11,7 +11,7 @@
         "projectName": "0_FrameWork",
         "projectPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj",
         "packagesPath": "C:\\Users\\sajjad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sajjad\\source\\repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\obj\\",
+        "outputPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,7 +77,7 @@
         "projectName": "ShopManagement.Application.Contracts",
         "projectPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\sajjad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sajjad\\source\\repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Application.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -141,7 +141,7 @@
         "projectName": "ShopManagement.Domain",
         "projectPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\sajjad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sajjad\\source\\repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Domain\\obj\\",
+        "outputPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

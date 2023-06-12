@@ -646,7 +646,7 @@
       "projectName": "ShopManagement.Application",
       "projectPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Application\\ShopManagement.Application.csproj",
       "packagesPath": "C:\\Users\\sajjad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sajjad\\source\\repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Application\\obj\\",
+      "outputPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

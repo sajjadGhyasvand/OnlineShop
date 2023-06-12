@@ -608,7 +608,7 @@
       "projectName": "ShopManagement.Application.Contracts",
       "projectPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
       "packagesPath": "C:\\Users\\sajjad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sajjad\\source\\repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Application.Contracts\\obj\\",
+      "outputPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Application.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
