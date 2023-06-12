@@ -4,3 +4,16 @@
 
 /OnlineShop/.vs/ProjectEvaluation/onlineshop.projects.v5.2
 /OnlineShop/.vs/ProjectEvaluation/onlineshop.metadata.v5.2
+/OnlineShop/.vs
+/OnlineShop/.vs/OnlineShop/v17
+/OnlineShop/0_FrameWork/bin/debug/net6.0
+/OnlineShop/ServiceHost/bin/debug/net6.0
+/OnlineShop/
+*.dll
+*.exe
+*.exp
+*.ilk
+*.lib
+*.ncb
+*.log
+*.pdb
