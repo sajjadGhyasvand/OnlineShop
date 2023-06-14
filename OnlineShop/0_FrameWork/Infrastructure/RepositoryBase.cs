@@ -11,36 +11,36 @@ namespace _0_FrameWork.Infrastructure
 {
     public class RepositoryBase<TKey, T> : Irepository<TKey, T> where T : class
     {
-        private readonly DbContext _cotext;
+        private readonly DbContext _context;
 
         public RepositoryBase(DbContext cotext)
         {
-            _cotext=cotext;
+            _context=cotext;
         }
 
         public void Create(T entity)
         {
-            _cotext.Add(entity);
+            _context.Add(entity);
         }
 
         public bool Exists(Expression<Func<T, bool>> expression)
         {
-            return _cotext.Set<T>().Any(expression);
+            return _context.Set<T>().Any(expression);
         }
 
         public T Get(TKey id)
         {
-            return _cotext.Find<T>(id);
+            return _context.Find<T>(id);
         }
 
         public List<T> GetAll()
         {
-            return _cotext.Set<T>().ToList();
+            return _context.Set<T>().ToList();
         }
 
         public void SaveChanges()
         {
-            _cotext.SaveChanges();
+            _context.SaveChanges();
         }
     }
 }

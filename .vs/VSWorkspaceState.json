@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\OnlineShop",
+    "\\OnlineShop\\ShopManagementInfrastructure.EFCore",
+    "\\OnlineShop\\ShopManagementInfrastructure.EFCore\\Migrations"
   ],
   "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
