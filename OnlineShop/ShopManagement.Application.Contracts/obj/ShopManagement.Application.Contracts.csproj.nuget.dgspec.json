@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {}
   },
   "projects": {
@@ -13,25 +12,12 @@
         "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj",
         "packagesPath": "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\0_FrameWork\\obj\\",
-=======
-    "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj",
-        "projectName": "0_FrameWork",
-        "projectPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj",
-        "packagesPath": "C:\\Users\\sajjad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\obj\\",
->>>>>>> 2b5c903a83bb7a3a32fc7c5d18b1779e23d81a9d
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sajjad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\S.Ghiasvand\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -40,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -80,7 +65,6 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.410\\RuntimeIdentifierGraph.json"
         }
       }
@@ -93,26 +77,12 @@
         "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Application.Contracts\\obj\\",
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
-        "projectName": "ShopManagement.Application.Contracts",
-        "projectPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
-        "packagesPath": "C:\\Users\\sajjad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Application.Contracts\\obj\\",
->>>>>>> 2b5c903a83bb7a3a32fc7c5d18b1779e23d81a9d
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sajjad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\S.Ghiasvand\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -121,20 +91,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-<<<<<<< HEAD
               "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj": {
                 "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj"
-=======
-              "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj": {
-                "projectPath": "C:\\Users\\sajjad\\Source\\Repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj"
->>>>>>> 2b5c903a83bb7a3a32fc7c5d18b1779e23d81a9d
               }
             }
           }
@@ -164,11 +128,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.410\\RuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
->>>>>>> 2b5c903a83bb7a3a32fc7c5d18b1779e23d81a9d
         }
       }
     }
