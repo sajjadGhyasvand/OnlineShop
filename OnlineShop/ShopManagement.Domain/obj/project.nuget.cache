@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BNUQdZb0ASFV3+HIiKSORrqcPQp8EzJziQHyZcHfnd4psnjuvIgL28s9ooVK2trthlgruax8Aj9QVGqQAlNMag==",
+  "dgSpecHash": "rEIzM8OwpIHgabh2QMu/CSS3NjCiizpd/H+Fa/OWVJtzpiqOoYj4Rm2mTmeRRjizs25Gy1JkijGPfwH1xfSztQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\S.Ghiasvand\\source\\repos\\OnlineShop\\OnlineShop\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
+  "projectFilePath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.16\\microsoft.entityframeworkcore.6.0.16.nupkg.sha512",

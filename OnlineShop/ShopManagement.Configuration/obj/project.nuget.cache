@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "39L+tdWvKXY/U/29Pl9BHIwbvDlbNJsNwEBTSFedZXLBkhxSCz+DhQzvMQVzCAMPHSvqibOC+ated6bkCij90w==",
+  "dgSpecHash": "BLiVP6d4TUN10OIAKJj2tiTHsLlZpdi9XmnqJUu+tbMXcEkOJ5/deF+LhxX6VakciwkqORcmTMQhIwARpsuHBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\S.Ghiasvand\\source\\repos\\OnlineShop\\OnlineShop\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
+  "projectFilePath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

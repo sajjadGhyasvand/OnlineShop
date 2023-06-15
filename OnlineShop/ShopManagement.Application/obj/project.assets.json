@@ -590,11 +590,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S.Ghiasvand\\source\\repos\\OnlineShop\\OnlineShop\\ShopManagement.Application\\ShopManagement.Application.csproj",
+      "projectUniqueName": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Application\\ShopManagement.Application.csproj",
       "projectName": "ShopManagement.Application",
-      "projectPath": "C:\\Users\\S.Ghiasvand\\source\\repos\\OnlineShop\\OnlineShop\\ShopManagement.Application\\ShopManagement.Application.csproj",
+      "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Application\\ShopManagement.Application.csproj",
       "packagesPath": "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S.Ghiasvand\\source\\repos\\OnlineShop\\OnlineShop\\ShopManagement.Application\\obj\\",
+      "outputPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -615,11 +615,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\S.Ghiasvand\\source\\repos\\OnlineShop\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-              "projectPath": "C:\\Users\\S.Ghiasvand\\source\\repos\\OnlineShop\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+            "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+              "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
             },
-            "C:\\Users\\S.Ghiasvand\\source\\repos\\OnlineShop\\OnlineShop\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
-              "projectPath": "C:\\Users\\S.Ghiasvand\\source\\repos\\OnlineShop\\OnlineShop\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
+            "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+              "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
             }
           }
         }
@@ -649,7 +649,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -40,7 +40,12 @@
       "ProjectGuid": "47a4c962-4daf-459e-9999-396002e49d46",
       "DisplayName": "ServiceHost",
       "ColorIndex": 6
+    },
+    "afd4d45d-e93c-48f3-bece-bb776f37bbe6": {
+      "ProjectGuid": "afd4d45d-e93c-48f3-bece-bb776f37bbe6",
+      "DisplayName": "ServiceHost",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }

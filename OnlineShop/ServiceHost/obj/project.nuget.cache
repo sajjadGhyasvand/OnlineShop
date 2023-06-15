@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lBIJbgPUV39tpLN+oadh/1u2pNOY9kSf3dU0Z4a71weDhEJYoPbOS30BDPt3rR3H83tXe2Filj1c/bQzMnBDaA==",
+  "dgSpecHash": "iem1Aj3Jj5fX8NEDpGKD85aSlv7vtl0yliQuqXK5MkFMLhmFGhPMuI59REb7OlRKv6yjQC4598AkCrKmlDEb9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\S.Ghiasvand\\source\\repos\\OnlineShop\\OnlineShop\\ServiceHost\\ServiceHost.csproj",
+  "projectFilePath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ServiceHost\\ServiceHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
