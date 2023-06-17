@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\OnlineShop",
-    "\\OnlineShop\\ShopManagementInfrastructure.EFCore",
-    "\\OnlineShop\\ShopManagementInfrastructure.EFCore\\Migrations"
+    "\\OnlineShop\\0_FrameWork"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\OnlineShop\\OnlineShop.sln",
   "PreviewInSolutionExplorer": false
 }

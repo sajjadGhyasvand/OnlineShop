@@ -10,9 +10,9 @@ namespace ShopManagement.Application.Contracts.Product
     public interface IPorductApplication
     {
         OprationResult Create(CreateProduct command);
-        OprationResult Edit(EditProduct command);
-        void InStock(long id);
-        void NotInStock(long Id);
+        EditProduct Edit(EditProduct command);
+        OprationResult InStock(long id);
+        OprationResult NotInStock(long Id);
         OprationResult GetDetails(long id);
         List<ProductViewModel> Search(ProductSearchModel searchModel);
 

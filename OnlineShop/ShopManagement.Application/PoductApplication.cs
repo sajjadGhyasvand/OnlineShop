@@ -40,29 +40,43 @@ namespace ShopManagement.Application
             var slug = command.Slug.Slugify();
             if (_productRepository.Exists(x=>x.Name == command.Name && x.Id != command.Id))
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
-            product.Edit(command.Name,command.Code,command.UnitPrice, command.Picture, command.PictureAlt, command.PictureTitle, command.Description,slug, command.Keywords, command.MetaDescription);
+            product.Edit(command.Name,command.Code,command.UnitPrice,
+                command.ShortDescription,command.Picture, command.PictureAlt, command.PictureTitle,
+                command.Description,slug, command.Keywords, command.MetaDescription);
             _productRepository.SaveChanges();
             return operation.succedded();
         }
 
-        public OprationResult GetDetails(long id)
+        public EditProduct GetDetails(long id)
         {
-            throw new NotImplementedException();
+            return _productRepository.GetDetails(id);
         }
 
-        public void InStock(long id)
+        public OprationResult InStock(long id)
         {
-            throw new NotImplementedException();
+            var operation = new OprationResult();
+            var product = _productRepository.Get(id);
+            if (product == null)
+                return operation.Failed(ApplicationMessages.RecordNotFound);
+            product.InStock();
+           _productRepository.SaveChanges();
+            return operation.succedded();
         }
 
-        public void NotInStock(long Id)
+        public OprationResult NotInStock(long Id)
         {
-            throw new NotImplementedException();
+            var operation = new OprationResult();
+            var product = _productRepository.Get(Id);
+            if (product == null)
+                return operation.Failed(ApplicationMessages.RecordNotFound);
+            product.NotInStock();
+            _productRepository.SaveChanges();
+            return operation.succedded();
         }
 
         public List<ProductViewModel> Search(ProductSearchModel searchModel)
         {
-            throw new NotImplementedException();
+            return _productRepository.Search(searchModel);
         }
     }
 }
