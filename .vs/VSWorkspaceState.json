@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\OnlineShop",
-    "\\OnlineShop\\0_FrameWork"
+    "\\OnlineShop\\0_FrameWork",
+    "\\OnlineShop\\ShopManagement.Configuration"
   ],
-  "SelectedNode": "\\OnlineShop\\OnlineShop.sln",
+  "SelectedNode": "\\OnlineShop\\ShopManagement.Configuration\\ShopManagementBootstrapper.cs",
   "PreviewInSolutionExplorer": false
 }

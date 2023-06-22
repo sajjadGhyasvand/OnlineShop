@@ -29,8 +29,7 @@ namespace ShopManagement.Application
             _productRepository.Create(product);
             _productRepository.SaveChanges();
             return operation.succedded();
-        }
-
+        } 
         public OprationResult Edit(EditProduct command)
         {
             var operation = new OprationResult();
@@ -46,7 +45,6 @@ namespace ShopManagement.Application
             _productRepository.SaveChanges();
             return operation.succedded();
         }
-
         public EditProduct GetDetails(long id)
         {
             return _productRepository.GetDetails(id);
