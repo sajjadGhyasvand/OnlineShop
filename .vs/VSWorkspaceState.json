@@ -2,9 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\OnlineShop",
-    "\\OnlineShop\\0_FrameWork",
-    "\\OnlineShop\\ShopManagement.Configuration"
+    "\\OnlineShop\\ServiceHost",
+    "\\OnlineShop\\ServiceHost\\Areas",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures",
+    "\\OnlineShop\\ShopManagement.Application.Contracts",
+    "\\OnlineShop\\ShopManagement.Application.Contracts\\PoductPicture"
   ],
-  "SelectedNode": "\\OnlineShop\\ShopManagement.Configuration\\ShopManagementBootstrapper.cs",
+  "SelectedNode": "\\OnlineShop\\ShopManagement.Application.Contracts\\PoductPicture\\CreatePoductPicture.cs",
   "PreviewInSolutionExplorer": false
 }

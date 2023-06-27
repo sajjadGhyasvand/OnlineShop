@@ -6,11 +6,11 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Web.Mvc;
+
 
 namespace ShopManagement.Application.Contracts.Product
 {
-    public class CreateProduct 
+    public class CreateProduct
     {
         [Required(ErrorMessage = ValidationMessages.IsRequired)]
         public string Name { get;  set; }

@@ -37,7 +37,8 @@ namespace ShopManagementInfrastructure.EFCore.Repository
                 Product=x.Product.Name,
                 CreationDate = x.CreationDate.ToString(),
                 Picture = x.Picture ,
-                ProductId = x.ProductId
+                ProductId = x.ProductId,
+                IsRemoved = x.IsRemoved,
             });
             if (searchModel.ProductId!=0)
                 query = query.Where(x=>x.ProductId == searchModel.ProductId);
