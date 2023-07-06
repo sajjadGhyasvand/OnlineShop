@@ -32,7 +32,7 @@ namespace ShopManagement.Domain.ProductAgg
 
         
 
-        public Product(string name, string code, double unitPrice, string picture, string pictureAlt, string pictureTitle, string description, long categoryId, string slug, string keywords, string metaDescription)
+        public Product(string name, string code, double unitPrice, string picture, string pictureAlt, string pictureTitle, string description, long categoryId, string slug, string keywords, string metaDescription,string shortDescription)
         {
             Name=name;
             Code=code;
@@ -45,6 +45,7 @@ namespace ShopManagement.Domain.ProductAgg
             Slug=slug;
             Keywords=keywords;
             MetaDescription=metaDescription;
+            ShortDescription=shortDescription;
             IsInStock = true;
         }
 
