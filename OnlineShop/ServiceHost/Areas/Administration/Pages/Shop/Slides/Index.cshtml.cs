@@ -54,7 +54,7 @@ namespace ServiceHost.Areas.Administration.Pages.Shop.Slides
             message = result.Message;
             return RedirectToPage("./Index");
         }
-        public IActionResult OnGetIsRestore(long id)
+        public IActionResult OnGetRestore(long id)
         {
             var result = _slideApplication.Restore(id);
             if (result.IsSuccedded)

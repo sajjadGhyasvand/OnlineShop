@@ -61,11 +61,11 @@
                                            href="#showmodal=@Url.Page("./Index", "Edit", new { id = item.Id})">
                                                 <i class="fa fa-edit"></i> ویرایش
                                             </a>
-                                            if(!item.IsRemoved){
-                                            <a asp-page="./Index" asp-page-handler="Remove" asp-route-id="@item.Id" class="btn btn-outline-danger"> حذف </a>
+                                            @if(!item.IsRemoved){
+                                            <a asp-page="./Index" asp-page-handler="Remove" asp-route-id="@item.Id" class="btn btn-danger"> حذف </a>
                                             }
                                             else{
-                                            <a asp-page="./Index" asp-page-handler="Restore" asp-route-id="@item.Id" class="btn btn-outline-success">  فعال سازی   </a>
+                                            <a asp-page="./Index" asp-page-handler="Restore" asp-route-id="@item.Id" class="btn btn-success">  فعال سازی   </a>
                                             }
                                         </td>
                                     </tr>

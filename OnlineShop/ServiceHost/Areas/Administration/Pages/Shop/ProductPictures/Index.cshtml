@@ -52,8 +52,8 @@
                                     <th>#</th>
                                     <th>عکس</th>
                                     <th>نام محصول</th>
-                                    <th>وضعیت</th>
                                     <th>تاریخ تولید</th>
+                                    <th>وضعیت</th>
                                     <th>عملیات</th>
                                 </tr>
                             </thead>
@@ -77,17 +77,18 @@
                                                 <i class="fa fa-3x fa-remove text-danger"></i>
                                             }
                                         </td>
-                                        <td>@item.CreationDate</td>
                                         <td>
                                             <a class="btn btn-warning pull-right m-rl-5"
                                            href="#showmodal=@Url.Page("./Index", "Edit", new { id = item.Id})">
                                                 <i class="fa fa-edit"></i> ویرایش
                                             </a>
-                                            if(!item.IsRemoved){
-                                            <a asp-page="./Index" asp-page-handler="Remove" asp-route-id="@item.Id" class="btn btn-outline-danger"> حذف </a>
+                                            @if (!item.IsRemoved)
+                                            {
+                                                <a asp-page="./Index" asp-page-handler="Remove" asp-route-id="@item.Id" class="btn btn-danger"> حذف </a>
                                             }
-                                            else{
-                                            <a asp-page="./Index" asp-page-handler="Restore" asp-route-id="@item.Id" class="btn btn-outline-success">  فعال سازی   </a>
+                                            else
+                                            {
+                                                <a asp-page="./Index" asp-page-handler="Restore" asp-route-id="@item.Id" class="btn btn-success">  فعال سازی   </a>
                                             }
                                         </td>
                                     </tr>
