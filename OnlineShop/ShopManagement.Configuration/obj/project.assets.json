@@ -598,6 +598,19 @@
           }
         }
       },
+      "01_Query/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ShopManagementInfrastructure.EFCore": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/01_Query.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/01_Query.dll": {}
+        }
+      },
       "0_FrameWork/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1836,6 +1849,11 @@
         "version.txt"
       ]
     },
+    "01_Query/1.0.0": {
+      "type": "project",
+      "path": "../01_Query/01_Query.csproj",
+      "msbuildProject": "../01_Query/01_Query.csproj"
+    },
     "0_FrameWork/1.0.0": {
       "type": "project",
       "path": "../0_FrameWork/0_FrameWork.csproj",
@@ -1864,6 +1882,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "01_Query >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 7.0.0",
       "ShopManagement.Application >= 1.0.0",
       "ShopManagement.Application.Contracts >= 1.0.0",
@@ -1903,6 +1922,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\01_Query\\01_Query.csproj": {
+              "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\01_Query\\01_Query.csproj"
+            },
             "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
               "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
             },

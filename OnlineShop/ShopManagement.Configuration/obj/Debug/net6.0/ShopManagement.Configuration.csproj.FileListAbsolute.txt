@@ -44,3 +44,5 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configura
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\obj\Debug\net6.0\ShopManagement.Configuration.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\obj\Debug\net6.0\ref\ShopManagement.Configuration.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\obj\Debug\net6.0\ShopManagement.Configuration.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\01_Query.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\01_Query.pdb
