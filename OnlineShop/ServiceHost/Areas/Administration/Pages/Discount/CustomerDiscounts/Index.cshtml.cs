@@ -27,11 +27,9 @@ namespace ServiceHost.Areas.Administration.Pages.Discount.CustomerDiscounts
         }
         public IActionResult OnGetCreate()
         {
-            var command = new DefineCustomerDiscount
-            {
-                Products = new SelectList(_productApplication.GetProducts(), "Id", "Name")
-            };
-            return Partial("./Create", command);
+            Products = new SelectList(_productApplication.GetProducts(), "Id", "Name");
+
+            return Partial("./Create");
         }
         public JsonResult OnPostCreate(DefineCustomerDiscount command)
         {
@@ -41,7 +39,7 @@ namespace ServiceHost.Areas.Administration.Pages.Discount.CustomerDiscounts
         public IActionResult OnGetEdit(long id)
         {
             var customerDiscount = _customerDiscountApplication.GetDetails(id);
-            customerDiscount.Products= new SelectList(_productApplication.GetProducts(), "Id", "Name");
+            Products = new SelectList(_productApplication.GetProducts(), "Id", "Name");
             return Partial("Edit", customerDiscount);
         }
         public JsonResult OnPostEdit(EditCustomerDiscount command)
