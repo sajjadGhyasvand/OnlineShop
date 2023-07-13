@@ -159,3 +159,14 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\ne
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.genruntimeconfig.cache
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\01_Query.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\01_Query.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Application.Contract.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Application.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Configuration.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Domain.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Infrastructure.EFCore.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Configuration.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Application.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Application.Contract.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Domain.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Infrastructure.EFCore.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cs

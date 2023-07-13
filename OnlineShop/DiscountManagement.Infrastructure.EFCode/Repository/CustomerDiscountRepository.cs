@@ -1,4 +1,5 @@
-﻿using _0_FrameWork.Infrastructure;
+﻿using _0_FrameWork.Application;
+using _0_FrameWork.Infrastructure;
 using DiscountManagement.Application.Contract.CustomerDiscount;
 using DiscountManagement.Domain.CustomerDiscountAgg;
 using ShopManagementInfrastructure.EFCore;
@@ -46,9 +47,9 @@ namespace DiscountManagement.Infrastructure.EFCore.Repository
             {
                 Id=x.Id,
                 DiscountRate = x.DiscountRate,
-                EndDate = x.EndDate.ToString(),
+                EndDate = x.EndDate.ToFarsi(),
                 EndDateGr = x.EndDate,
-                StartDate = x.StartDate.ToString(),
+                StartDate = x.StartDate.ToFarsi(),
                 StartDateGr = x.StartDate,
                 ProductId = x.ProductId,
                 Reason = x.Reason,
@@ -56,15 +57,11 @@ namespace DiscountManagement.Infrastructure.EFCore.Repository
             if (searchModel.PriductId > 0)
                 query=query.Where(x => x.ProductId == searchModel.PriductId);
             if (!string.IsNullOrWhiteSpace(searchModel.StartDate))
-            {
-                var startDate = DateTime.Now;
-                query=query.Where(x => x.StartDateGr > startDate);
-            }
+                query=query.Where(x => x.StartDateGr > searchModel.StartDate.ToGeorgianDateTime());
+
             if (!string.IsNullOrWhiteSpace(searchModel.EndDate))
-            {
-                var endDate = DateTime.Now;
-                query=query.Where(x => x.EndDateGr < endDate);
-            }
+                query=query.Where(x => x.EndDateGr < searchModel.EndDate.ToGeorgianDateTime());
+
 
             var discounts = query.OrderByDescending(x=>x.Id).ToList();
             discounts.ForEach(discount => discount.Product  = products.FirstOrDefault(x => x.Id == discount.ProductId)?.Name);

@@ -15,6 +15,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/S.Ghiasvand/Source/Repos/OnlineShop/OnlineShop/ServiceHost/Areas/Administration/Pages/Discount/CustomerDiscounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcRGlzY291bnRcQ3VzdG9tZXJEaXNjb3VudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S.Ghiasvand/Source/Repos/OnlineShop/OnlineShop/ServiceHost/Areas/Administration/Pages/Discount/CustomerDiscounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcRGlzY291bnRcQ3VzdG9tZXJEaXNjb3VudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S.Ghiasvand/Source/Repos/OnlineShop/OnlineShop/ServiceHost/Areas/Administration/Pages/Discount/CustomerDiscounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcRGlzY291bnRcQ3VzdG9tZXJEaXNjb3VudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/S.Ghiasvand/Source/Repos/OnlineShop/OnlineShop/ServiceHost/Areas/Administration/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

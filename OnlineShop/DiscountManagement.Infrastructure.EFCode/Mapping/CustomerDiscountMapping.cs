@@ -15,7 +15,7 @@ namespace DiscountManagement.Infrastructure.EFCore.Mapping
         {
             builder.ToTable("CustomerDiscount");
             builder.HasKey(x=>x.Id);
-
+            builder.Property(x => x.Reason).HasMaxLength(500);
         }
     }
 }
