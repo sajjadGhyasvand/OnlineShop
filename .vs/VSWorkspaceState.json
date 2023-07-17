@@ -6,15 +6,11 @@
     "\\OnlineShop\\ServiceHost\\Areas",
     "\\OnlineShop\\ServiceHost\\Areas\\Administration",
     "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages",
-    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop",
-    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures",
-    "\\OnlineShop\\ServiceHost\\Pages",
-    "\\OnlineShop\\ServiceHost\\Pages\\Shared",
-    "\\OnlineShop\\ServiceHost\\Pages\\Shared\\Components",
-    "\\OnlineShop\\ServiceHost\\Pages\\Shared\\Components\\Slide",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Discount",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Discount\\CustomerDiscounts",
     "\\OnlineShop\\ShopManagement.Application.Contracts",
     "\\OnlineShop\\ShopManagement.Application.Contracts\\PoductPicture"
   ],
-  "SelectedNode": "\\OnlineShop\\OnlineShop.sln",
+  "SelectedNode": "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Discount\\CustomerDiscounts\\Create.cshtml",
   "PreviewInSolutionExplorer": false
 }

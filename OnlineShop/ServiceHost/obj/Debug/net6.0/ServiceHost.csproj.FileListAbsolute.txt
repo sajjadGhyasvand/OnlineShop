@@ -169,4 +169,8 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\ne
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Application.Contract.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Domain.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Infrastructure.EFCore.pdb
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

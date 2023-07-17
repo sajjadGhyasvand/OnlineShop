@@ -24,11 +24,11 @@
                 <form class="form-inline" role="form" method="get">
                     <div class="form-group">
                         <label class="sr-only" asp-for="SearchModel.StartDate"></label>
-                        <input class="form-control persianDatePicker" asp-for="SearchModel.StartDate">
+                        <input type="text"  class="form-control persianDateInput persianDatePicker" asp-for="SearchModel.StartDate">
                     </div>
                     <div class="form-group">
                         <label class="sr-only" asp-for="SearchModel.EndDate"></label>
-                        <input class="form-control persianDatePicker" asp-for="SearchModel.EndDate">
+                        <input type="text" class="form-control persianDateInput" asp-for="SearchModel.EndDate">
                     </div>
                     <div class="form-group">
                         <label class="sr-only" asp-for="SearchModel.PriductId"></label>
@@ -94,4 +94,5 @@
         $('#datatable').dataTable();
     });
 </script>
+
 }

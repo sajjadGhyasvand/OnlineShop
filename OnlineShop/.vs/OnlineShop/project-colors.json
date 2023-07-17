@@ -75,7 +75,12 @@
       "ProjectGuid": "e560ca3d-098a-4714-81e0-400e0f99c1a3",
       "DisplayName": "DiscountManagement.Infrastructure.EFCore",
       "ColorIndex": 13
+    },
+    "7de8556a-0458-413f-a6e1-e851b3569124": {
+      "ProjectGuid": "7de8556a-0458-413f-a6e1-e851b3569124",
+      "DisplayName": "DiscountManagement.Configuration",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 15
 }
