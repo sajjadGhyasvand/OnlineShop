@@ -9,7 +9,7 @@ namespace DiscountManagement.Application.Contract.ColleagueDiscount
 {
     public interface IColleagueDiscountApplication 
     {
-        OprationResult Defite(DefineColleagueDiscount command);
+        OprationResult Define(DefineColleagueDiscount command);
         OprationResult Edit(EditColleagueDiscount command);
         OprationResult Remove(long id);
         OprationResult Restore(long id);
