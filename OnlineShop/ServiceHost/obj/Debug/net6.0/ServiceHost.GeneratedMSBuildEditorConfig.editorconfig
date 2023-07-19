@@ -8,12 +8,24 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ServiceHost
 build_property.RootNamespace = ServiceHost
-build_property.ProjectDir = C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\
+build_property.ProjectDir = C:\Users\S.Ghiasvand\source\repos\OnlineShop\OnlineShop\ServiceHost\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost
+build_property.MSBuildProjectDirectory = C:\Users\S.Ghiasvand\source\repos\OnlineShop\OnlineShop\ServiceHost
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/S.Ghiasvand/Source/Repos/OnlineShop/OnlineShop/ServiceHost/Areas/Administration/Pages/Discount/ColleagueDiscount/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcRGlzY291bnRcQ29sbGVhZ3VlRGlzY291bnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S.Ghiasvand/Source/Repos/OnlineShop/OnlineShop/ServiceHost/Areas/Administration/Pages/Discount/ColleagueDiscount/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcRGlzY291bnRcQ29sbGVhZ3VlRGlzY291bnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S.Ghiasvand/Source/Repos/OnlineShop/OnlineShop/ServiceHost/Areas/Administration/Pages/Discount/ColleagueDiscount/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcRGlzY291bnRcQ29sbGVhZ3VlRGlzY291bnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/S.Ghiasvand/Source/Repos/OnlineShop/OnlineShop/ServiceHost/Areas/Administration/Pages/Discount/CustomerDiscounts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcRGlzY291bnRcQ3VzdG9tZXJEaXNjb3VudHNcQ3JlYXRlLmNzaHRtbA==

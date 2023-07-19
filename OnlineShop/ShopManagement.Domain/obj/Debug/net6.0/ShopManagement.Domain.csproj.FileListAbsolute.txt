@@ -17,10 +17,10 @@ C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ShopManagement.Domain\obj\D
 C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ref\ShopManagement.Domain.dll
 C:\Users\sajjad\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.runtimeconfig.json
 C:\Users\sajjad\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.genruntimeconfig.cache
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.deps.json
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.runtimeconfig.json
+C:\Users\S.Ghiasvand\source\repos\OnlineShop\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.deps.json
+C:\Users\S.Ghiasvand\source\repos\OnlineShop\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.runtimeconfig.json
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.dll
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ref\ShopManagement.Domain.dll
+C:\Users\S.Ghiasvand\source\repos\OnlineShop\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ref\ShopManagement.Domain.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\0_FrameWork.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Application.Contracts.dll
@@ -31,8 +31,8 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Domain\ob
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.AssemblyInfoInputs.cache
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.AssemblyInfo.cs
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.csproj.CoreCompileInputs.cache
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.csproj.CopyComplete
+C:\Users\S.Ghiasvand\source\repos\OnlineShop\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.csproj.CopyComplete
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ref\ShopManagement.Domain.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.pdb
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.genruntimeconfig.cache
+C:\Users\S.Ghiasvand\source\repos\OnlineShop\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.genruntimeconfig.cache
