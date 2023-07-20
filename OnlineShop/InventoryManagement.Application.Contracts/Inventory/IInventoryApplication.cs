@@ -12,7 +12,8 @@ namespace InventoryManagement.Application.Contract.Inventory
         OprationResult Create(CreateInventory command);
         OprationResult Edit(EditInventory command);
         OprationResult Increase(IncreaseInventory command);
-        OprationResult Decrease(List<DecreaseInventory> command);
+        OprationResult Reduce(DecreaseInventory command);
+        OprationResult Reduce(List<DecreaseInventory> command);
         EditInventory GetDetails(long id);
         List<InventoryViewModel> Search(InventoryViewModel searchModel);
     }
