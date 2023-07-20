@@ -44,7 +44,6 @@ namespace InventoryManagement.Domain.InventoryAgg
         {
             public long Id { get; private set; }
             public bool Operation { get; private set; }
-
             public long Count { get; private set; }
             public long OperatorId { get; private set; }
             public DateTime OperationDate { get; private set; }

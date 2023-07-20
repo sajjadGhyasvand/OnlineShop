@@ -12,6 +12,6 @@
     "\\OnlineShop\\ShopManagement.Application.Contracts",
     "\\OnlineShop\\ShopManagement.Application.Contracts\\PoductPicture"
   ],
-  "SelectedNode": "\\OnlineShop\\OnlineShop.sln",
+  "SelectedNode": "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Discount\\CustomerDiscounts",
   "PreviewInSolutionExplorer": false
 }
