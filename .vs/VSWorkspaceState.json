@@ -2,16 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\OnlineShop",
+    "\\OnlineShop\\InventoryManagement.Domain\\InventoryAgg",
     "\\OnlineShop\\ServiceHost",
     "\\OnlineShop\\ServiceHost\\Areas",
     "\\OnlineShop\\ServiceHost\\Areas\\Administration",
     "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages",
-    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Discount",
-    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Discount\\CustomerDiscounts",
     "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shared",
     "\\OnlineShop\\ShopManagement.Application.Contracts",
     "\\OnlineShop\\ShopManagement.Application.Contracts\\PoductPicture"
   ],
-  "SelectedNode": "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Discount\\CustomerDiscounts",
+  "SelectedNode": "\\OnlineShop\\ServiceHost\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

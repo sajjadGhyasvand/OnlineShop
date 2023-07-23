@@ -13,9 +13,9 @@ C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ShopManagement.Application.
 C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ShopManagement.Application.Contracts\obj\Debug\net6.0\refint\ShopManagement.Application.Contracts.dll
 C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.pdb
 C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ShopManagement.Application.Contracts\obj\Debug\net6.0\ref\ShopManagement.Application.Contracts.dll
-C:\Users\S.Ghiasvand\source\repos\OnlineShop\OnlineShop\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Application.Contracts.deps.json
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Application.Contracts.deps.json
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Application.Contracts.dll
-C:\Users\S.Ghiasvand\source\repos\OnlineShop\OnlineShop\ShopManagement.Application.Contracts\bin\Debug\net6.0\ref\ShopManagement.Application.Contracts.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Application.Contracts\bin\Debug\net6.0\ref\ShopManagement.Application.Contracts.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Application.Contracts.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Application.Contracts\bin\Debug\net6.0\0_FrameWork.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Application.Contracts\bin\Debug\net6.0\0_FrameWork.pdb
@@ -24,7 +24,7 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Applicati
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.AssemblyInfo.cs
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.csproj.CoreCompileInputs.cache
-C:\Users\S.Ghiasvand\source\repos\OnlineShop\OnlineShop\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.csproj.CopyComplete
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.csproj.CopyComplete
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Application.Contracts\obj\Debug\net6.0\ref\ShopManagement.Application.Contracts.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.pdb

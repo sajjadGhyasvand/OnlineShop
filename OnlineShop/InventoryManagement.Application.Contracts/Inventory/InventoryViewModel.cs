@@ -7,6 +7,7 @@
         public bool InStock { get; set; }
         public long CurrentCount { get; set; }
         public long ProductId { get; set; }
+        public string Product { get; set; }
         public double UnitPrice { get; set; }
     }
 }
