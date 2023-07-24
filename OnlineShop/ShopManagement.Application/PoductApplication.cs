@@ -31,7 +31,7 @@ namespace ShopManagement.Application
                                       command.Keywords,command.MetaDescription,command.ShortDescription);
             _productRepository.Create(product);
             _productRepository.SaveChanges();
-            return operation.succedded();
+            return operation.succedde();
         } 
         public OprationResult Edit(EditProduct command)
         {
@@ -46,7 +46,7 @@ namespace ShopManagement.Application
                 command.ShortDescription,command.Picture, command.PictureAlt, command.PictureTitle,
                 command.Description,slug, command.Keywords, command.MetaDescription);
             _productRepository.SaveChanges();
-            return operation.succedded();
+            return operation.succedde();
         }
         public EditProduct GetDetails(long id)
         {
@@ -66,7 +66,7 @@ namespace ShopManagement.Application
                 return operation.Failed(ApplicationMessages.RecordNotFound);
             product.InStock();
            _productRepository.SaveChanges();
-            return operation.succedded();
+            return operation.succedde();
         }
 
         public OprationResult NotInStock(long Id)
@@ -77,7 +77,7 @@ namespace ShopManagement.Application
                 return operation.Failed(ApplicationMessages.RecordNotFound);
             product.NotInStock();
             _productRepository.SaveChanges();
-            return operation.succedded();
+            return operation.succedde();
         }
 
         public List<ProductViewModel> Search(ProductSearchModel searchModel)

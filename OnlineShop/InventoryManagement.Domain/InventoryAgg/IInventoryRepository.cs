@@ -12,6 +12,6 @@ namespace InventoryManagement.Domain.InventoryAgg
     {
         EditInventory GetDetails(long id);
         Inventory GetBy(long ProductId);
-        List<InventoryViewModel> Serach(InventoryViewModel searchModel);
+        List<InventoryViewModel> Serach(InventorySearchModel searchModel);
     }
 }

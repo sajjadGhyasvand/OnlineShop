@@ -21,3 +21,4 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\0_FrameWork\obj\Debug\ne
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\0_FrameWork\obj\Debug\net6.0\0_FrameWork.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\0_FrameWork\obj\Debug\net6.0\ref\0_FrameWork.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\0_FrameWork\obj\Debug\net6.0\0_FrameWork.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\0_FrameWork\obj\Debug\net6.0\0_FrameWork.csproj.AssemblyReference.cache
