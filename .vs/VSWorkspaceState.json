@@ -2,12 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\OnlineShop",
-    "\\OnlineShop\\ServiceHost\\Areas",
-    "\\OnlineShop\\ServiceHost\\Areas\\Administration",
-    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages",
-    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shared",
-    "\\OnlineShop\\ShopManagement.Application.Contracts\\PoductPicture"
+    "\\OnlineShop\\InventoryManagement.Infrastructure.EFCore",
+    "\\OnlineShop\\InventoryManagement.Infrastructure.EFCore\\Repository"
   ],
-  "SelectedNode": "\\OnlineShop\\OnlineShop.sln",
+  "SelectedNode": "\\OnlineShop\\InventoryManagement.Infrastructure.EFCore\\Repository\\InventoryRepository.cs",
   "PreviewInSolutionExplorer": false
 }

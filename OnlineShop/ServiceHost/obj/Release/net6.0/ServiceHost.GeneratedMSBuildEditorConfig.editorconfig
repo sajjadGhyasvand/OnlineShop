@@ -47,8 +47,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcSW52ZW50b3J5XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/S.Ghiasvand/Source/Repos/OnlineShop/OnlineShop/ServiceHost/Areas/Administration/Pages/Inventory/Decrease.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcSW52ZW50b3J5XERlY3JlYXNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/S.Ghiasvand/Source/Repos/OnlineShop/OnlineShop/ServiceHost/Areas/Administration/Pages/Inventory/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcSW52ZW50b3J5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S.Ghiasvand/Source/Repos/OnlineShop/OnlineShop/ServiceHost/Areas/Administration/Pages/Inventory/Increase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcSW52ZW50b3J5XEluY3JlYXNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/S.Ghiasvand/Source/Repos/OnlineShop/OnlineShop/ServiceHost/Areas/Administration/Pages/Inventory/Index.cshtml]
