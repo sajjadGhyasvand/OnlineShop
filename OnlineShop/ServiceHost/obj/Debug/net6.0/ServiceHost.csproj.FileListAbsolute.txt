@@ -80,6 +80,14 @@ C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ServiceHost\obj\Debug\net6.
 C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ServiceHost\obj\Debug\net6.0\ref\ServiceHost.dll
 C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\Humanizer.dll
 C:\Users\sajjad\source\repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.csproj.AssemblyReference.cache
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.AssemblyInfoInputs.cache
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.AssemblyInfo.cs
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.RazorAssemblyInfo.cache
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.RazorAssemblyInfo.cs
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\appsettings.json
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\ServiceHost.staticwebassets.runtime.json
@@ -139,6 +147,7 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\ne
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Domain.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Infrastructure.EFCore.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.Contract.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Domain.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Infrastructure.Configurations.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.dll
@@ -156,6 +165,7 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\ne
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Application.Contract.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Domain.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Infrastructure.EFCore.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.Contract.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Domain.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.pdb
@@ -163,14 +173,6 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\ne
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\ShopManagement.Application.Contracts.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\ShopManagement.Domain.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\ShopManagementInfrastructure.EFCore.pdb
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.csproj.AssemblyReference.cache
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.AssemblyInfoInputs.cache
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.AssemblyInfo.cs
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.csproj.CoreCompileInputs.cache
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.RazorAssemblyInfo.cache
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.RazorAssemblyInfo.cs
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\scopedcss\Areas\Administration\Pages\Shared\_AdminLayout.cshtml.rz.scp.css
@@ -182,5 +184,3 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\ne
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ref\ServiceHost.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.genruntimeconfig.cache
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.dll
-C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.pdb

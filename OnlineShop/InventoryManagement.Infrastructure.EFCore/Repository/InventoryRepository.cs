@@ -1,4 +1,5 @@
-﻿using _0_FrameWork.Infrastructure;
+﻿using _0_FrameWork.Application;
+using _0_FrameWork.Infrastructure;
 using InventoryManagement.Application.Contract.Inventory;
 using InventoryManagement.Domain.InventoryAgg;
 using ShopManagementInfrastructure.EFCore;
@@ -33,6 +34,23 @@ namespace InventoryManagement.Infrastructure.EFCore.Repository
                 ProductId = x.ProductId,
                 UnitPrice = x.UnitPrice,
             }).FirstOrDefault(x=>x.Id == id);
+        }
+
+        public List<InventoryOperationViewModel> GetOperationLog(long InventoryId)
+        {
+           var inventory = _inventoryContext.Inventory.FirstOrDefault(x => x.Id == InventoryId);
+            return inventory.Operations.Select(x => new InventoryOperationViewModel
+            {
+                Id = x.Id,
+                Count = x.Count,
+                CurrentCount = x.CurrentCount,
+                Description = x.Description,
+                Operation = x.Operation,
+                OperationDate = x.OperationDate.ToFarsi(),
+                Operator = "مدیر سیستم",
+                OperatorId = x.OperatorId,
+                OrderId = x.OrderId,
+            }).OrderByDescending(x=>x.Id).ToList();
         }
 
         public List<InventoryViewModel> Serach(InventorySearchModel searchModel)

@@ -47,10 +47,10 @@ namespace InventoryManagement.Application
             return _inventoryRepository.GetDetails(id);
         }
 
-      /*  public List<InventoryOperationViewModel> GetOperationLog(long inventoryId)
+        public List<InventoryOperationViewModel> GetOperationLog(long InventoryId)
         {
-            return _inventoryRepository.GetOperationLog(inventoryId);
-        }*/
+           return _inventoryRepository.GetOperationLog(InventoryId);
+        }
 
         public OprationResult Increase(IncreaseInventory command)
         {
