@@ -25,7 +25,7 @@ namespace ShopManagement.Application
             if (_productRepository.Exists(x => x.Name == command.Name))
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
             var slug = command.Slug.Slugify();
-            var product = new Product(command.Name,command.Code,command.UnitPrice,
+            var product = new Product(command.Name,command.Code,
                                       command.Picture,command.PictureAlt,command.PictureTitle,
                                       command.Description,command.CategoryId,slug, 
                                       command.Keywords,command.MetaDescription,command.ShortDescription);
@@ -56,28 +56,6 @@ namespace ShopManagement.Application
         public List<ProductViewModel> GetProducts()
         {
             return _productRepository.GetProducts();
-        }
-
-        public OprationResult InStock(long id)
-        {
-            var operation = new OprationResult();
-            var product = _productRepository.Get(id);
-            if (product == null)
-                return operation.Failed(ApplicationMessages.RecordNotFound);
-            product.InStock();
-           _productRepository.SaveChanges();
-            return operation.succedde();
-        }
-
-        public OprationResult NotInStock(long Id)
-        {
-            var operation = new OprationResult();
-            var product = _productRepository.Get(Id);
-            if (product == null)
-                return operation.Failed(ApplicationMessages.RecordNotFound);
-            product.NotInStock();
-            _productRepository.SaveChanges();
-            return operation.succedde();
         }
 
         public List<ProductViewModel> Search(ProductSearchModel searchModel)

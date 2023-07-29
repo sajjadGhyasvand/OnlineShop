@@ -3,8 +3,12 @@
     "",
     "\\OnlineShop",
     "\\OnlineShop\\InventoryManagement.Infrastructure.EFCore",
-    "\\OnlineShop\\InventoryManagement.Infrastructure.EFCore\\Repository"
+    "\\OnlineShop\\InventoryManagement.Infrastructure.EFCore\\Repository",
+    "\\OnlineShop\\ServiceHost",
+    "\\OnlineShop\\ServiceHost\\Areas",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Inventory"
   ],
-  "SelectedNode": "\\OnlineShop\\InventoryManagement.Infrastructure.EFCore\\Repository\\InventoryRepository.cs",
   "PreviewInSolutionExplorer": false
 }
