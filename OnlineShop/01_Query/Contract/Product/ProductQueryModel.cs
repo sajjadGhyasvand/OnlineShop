@@ -18,5 +18,6 @@ namespace _01_Query.Contract.Product
         public string PriceWithDiscount { get; set; }
         public string Category { get; set; }
         public int DiscountRate { get; set; }
+        public bool HasDiscount { get; set; }
     }
 }

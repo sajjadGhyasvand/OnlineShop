@@ -46,3 +46,15 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configura
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\obj\Debug\net6.0\ShopManagement.Configuration.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\obj\Debug\net6.0\ref\ShopManagement.Configuration.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\obj\Debug\net6.0\ShopManagement.Configuration.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\DiscountManagement.Application.Contract.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\DiscountManagement.Domain.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\DiscountManagement.Infrastructure.EFCore.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Application.Contract.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Domain.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\DiscountManagement.Application.Contract.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\DiscountManagement.Domain.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\DiscountManagement.Infrastructure.EFCore.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Application.Contract.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Domain.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.pdb
