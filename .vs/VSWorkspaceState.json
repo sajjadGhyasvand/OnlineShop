@@ -6,8 +6,9 @@
     "\\OnlineShop\\ServiceHost\\Pages",
     "\\OnlineShop\\ServiceHost\\Pages\\Shared",
     "\\OnlineShop\\ServiceHost\\Pages\\Shared\\Components",
-    "\\OnlineShop\\ServiceHost\\Pages\\Shared\\Components\\ProductCategoryWithProduct"
+    "\\OnlineShop\\ServiceHost\\Pages\\Shared\\Components\\ProductCategoryWithProduct",
+    "\\OnlineShop\\ShopManagement.Configuration"
   ],
-  "SelectedNode": "\\OnlineShop\\ServiceHost\\Pages\\Shared\\Components\\ProductCategoryWithProduct\\Default.cshtml",
+  "SelectedNode": "\\OnlineShop\\ShopManagement.Configuration\\ShopManagementBootstrapper.cs",
   "PreviewInSolutionExplorer": false
 }

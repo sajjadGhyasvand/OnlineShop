@@ -8,6 +8,7 @@ namespace _01_Query.Contract.ProductCategory
 {
     public interface IProductCategoryQuery
     {
+        ProductCategoryQueryModel GetProductCategoriesWithProductBy(string slug);
         List<ProductCategoryQueryModel> GetProductCategories();
         List<ProductCategoryQueryModel> GetProductCategoriesWithProduct();
     }
