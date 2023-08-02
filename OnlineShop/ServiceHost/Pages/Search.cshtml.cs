@@ -8,7 +8,7 @@ namespace ServiceHost.Pages
 {
     public class SearchModel : PageModel
     {
-        public string value;
+        public string Value;
         private readonly IProductQuery _productQuery;
         public List<ProductQueryModel> Products;
         public SearchModel(IProductQuery productQuery)
@@ -18,7 +18,8 @@ namespace ServiceHost.Pages
 
         public void OnGet(string value)
         {
-            value=value;
+            Value = value;
+            Products = _productQuery.Search(value);
         }
     }
 }
