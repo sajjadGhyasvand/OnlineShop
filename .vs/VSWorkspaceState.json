@@ -4,7 +4,6 @@
     "\\OnlineShop",
     "\\OnlineShop\\ServiceHost",
     "\\OnlineShop\\ServiceHost\\Pages",
-    "\\OnlineShop\\ServiceHost\\Pages\\Shared",
     "\\OnlineShop\\ServiceHost\\Pages\\Shared\\Components",
     "\\OnlineShop\\ServiceHost\\Pages\\Shared\\Components\\ProductCategoryWithProduct",
     "\\OnlineShop\\ShopManagement.Configuration"
