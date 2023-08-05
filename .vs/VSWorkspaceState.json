@@ -2,10 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\OnlineShop",
-    "\\OnlineShop\\ServiceHost",
     "\\OnlineShop\\ServiceHost\\Pages",
     "\\OnlineShop\\ShopManagement.Configuration"
   ],
-  "SelectedNode": "\\OnlineShop\\ServiceHost\\Pages\\ProductCategory.cshtml",
+  "SelectedNode": "\\OnlineShop\\OnlineShop.sln",
   "PreviewInSolutionExplorer": false
 }
