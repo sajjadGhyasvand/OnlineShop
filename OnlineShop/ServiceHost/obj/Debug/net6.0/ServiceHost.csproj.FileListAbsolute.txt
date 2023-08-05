@@ -184,3 +184,5 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\ne
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ref\ServiceHost.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.genruntimeconfig.cache
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\Nancy.dll

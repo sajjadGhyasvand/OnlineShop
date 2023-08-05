@@ -3,6 +3,7 @@ using _01_Query.Contract.Product;
 using DiscountManagement.Infrastructure.EFCore;
 using InventoryManagement.Infrastructure.EFCore;
 using Microsoft.EntityFrameworkCore;
+using ShopManagement.Application.Contracts.Order;
 using ShopManagement.Domain.ProductPictureAgg;
 using ShopManagementInfrastructure.EFCore;
 
@@ -21,7 +22,19 @@ namespace _01_Query.Contract.Query
             _discountContext=discountContext;
         }
 
+        public List<CartItem> CheckInventoryStatus(List<CartItem> cartItems)
+        {
+            var inventory = _inventoryContext.Inventory.ToList();
 
+            foreach (var cartItem in cartItems.Where(cartItem =>
+                inventory.Any(x => x.ProductId == cartItem.Id && x.InStock)))
+            {
+                var itemInventory = inventory.Find(x => x.ProductId == cartItem.Id);
+                cartItem.IsInStock = itemInventory.CalculateCurrentCount() >= cartItem.Count;
+            }
+
+            return cartItems;
+        }
         public List<ProductQueryModel> GetLatestArrivals()
         {
             var inventory = _inventoryContext.Inventory.Select(x =>
