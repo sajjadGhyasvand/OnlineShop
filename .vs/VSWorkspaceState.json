@@ -6,6 +6,6 @@
     "\\OnlineShop\\ServiceHost\\Pages",
     "\\OnlineShop\\ShopManagement.Configuration"
   ],
-  "SelectedNode": "\\OnlineShop\\OnlineShop.sln",
+  "SelectedNode": "\\OnlineShop\\ServiceHost\\Pages\\ProductCategory.cshtml",
   "PreviewInSolutionExplorer": false
 }
