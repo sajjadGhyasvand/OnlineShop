@@ -186,3 +186,10 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\ne
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.genruntimeconfig.cache
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\Nancy.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\RestSharp.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\RestSharp.Serializers.SystemTextJson.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\ShopManagement.Infrastructure.InventoryACL.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ServiceHost\bin\Debug\net6.0\ShopManagement.Infrastructure.InventoryACL.pdb

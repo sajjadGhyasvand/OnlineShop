@@ -47,6 +47,14 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.16, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            },
+            "RestSharp.Serializers.SystemTextJson": {
+              "target": "Package",
+              "version": "[106.15.0, )"
             }
           },
           "imports": [

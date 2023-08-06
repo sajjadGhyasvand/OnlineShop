@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LIQ0tdLGL0J+zaxzIDphleQ5sye6wLZNHh9gZD7035UfkWp3eguWPlYtJkp5uXB1FRfoxAX9boxJy5XeTO0ZzQ==",
+  "dgSpecHash": "D9uxIeZI+7Fc900SDbCZqQzXL3ZJdgVwzU48Mfg9/2Na7Ps6HD1hKJ27mmWlhylNpoQpRMeb4P+obCloeO64MQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
   "expectedPackageFiles": [
@@ -70,6 +70,8 @@
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
+    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\restsharp.serializers.systemtextjson\\106.15.0\\restsharp.serializers.systemtextjson.106.15.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -147,7 +149,8 @@
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
-    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
+    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",

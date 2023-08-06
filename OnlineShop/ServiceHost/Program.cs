@@ -1,3 +1,5 @@
+using _0_Framework.Application.ZarinPal;
+using _0_FrameWork.Application.ZarinPal;
 using DiscountManagement.Configuration;
 using InventoryManagement.Infrastructure.Configurations;
 using ShopManagement.Configuration;
@@ -10,6 +12,7 @@ var connectionstring = builder.Configuration.GetConnectionString("LampshadeDb");
 ShopManagementBootstrapper.Configure(builder.Services, connectionstring);
 DiscountManagementBootstraper.Configure(builder.Services, connectionstring);
 InventoryManagmentBootstrapper.Configure(builder.Services, connectionstring);
+builder.Services.AddTransient<IZarinPalFactory,ZarinPalFactory>();
 builder.Services.AddRazorPages();
 
 var app = builder.Build();

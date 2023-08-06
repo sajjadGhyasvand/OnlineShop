@@ -344,6 +344,29 @@
           }
         }
       },
+      "RestSharp/110.2.0": {
+        "dependencies": {
+          "System.Text.Json": "7.0.2"
+        },
+        "runtime": {
+          "lib/net6.0/RestSharp.dll": {
+            "assemblyVersion": "110.2.0.0",
+            "fileVersion": "110.2.0.0"
+          }
+        }
+      },
+      "RestSharp.Serializers.SystemTextJson/106.15.0": {
+        "dependencies": {
+          "RestSharp": "110.2.0",
+          "System.Text.Json": "7.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.Serializers.SystemTextJson.dll": {
+            "assemblyVersion": "106.15.0.0",
+            "fileVersion": "106.15.0.0"
+          }
+        }
+      },
       "System.Collections.Immutable/6.0.0": {
         "dependencies": {
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
@@ -471,6 +494,37 @@
           "Microsoft.NETCore.Platforms": "3.1.0"
         }
       },
+      "System.Text.Encodings.Web/7.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Text.Encodings.Web.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll": {
+            "rid": "browser",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Text.Json/7.0.2": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0",
+          "System.Text.Encodings.Web": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Text.Json.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.323.6910"
+          }
+        }
+      },
       "System.Windows.Extensions/4.7.0": {
         "dependencies": {
           "System.Drawing.Common": "4.7.0"
@@ -492,7 +546,9 @@
       },
       "0_FrameWork/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "6.0.16"
+          "Microsoft.EntityFrameworkCore": "6.0.16",
+          "RestSharp": "110.2.0",
+          "RestSharp.Serializers.SystemTextJson": "106.15.0"
         },
         "runtime": {
           "0_FrameWork.dll": {}
@@ -726,6 +782,20 @@
       "path": "microsoft.win32.systemevents/4.7.0",
       "hashPath": "microsoft.win32.systemevents.4.7.0.nupkg.sha512"
     },
+    "RestSharp/110.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FXGw0IMcqY7yO/hzS9QrD3iNswNgb9UxJnxWmfOxmGs4kRlZWqdtBoGPLuhlbgsDzX1RFo4WKui8TGGKXWKalw==",
+      "path": "restsharp/110.2.0",
+      "hashPath": "restsharp.110.2.0.nupkg.sha512"
+    },
+    "RestSharp.Serializers.SystemTextJson/106.15.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EX4tp4YZ4WoNoYmTXIzVnYkGBWk0E5eicJhc1cUQ7SUyFUQbBWs9mQ86/WNPZiC6xlKQni5MXs9ecJ5/ySiORA==",
+      "path": "restsharp.serializers.systemtextjson/106.15.0",
+      "hashPath": "restsharp.serializers.systemtextjson.106.15.0.nupkg.sha512"
+    },
     "System.Collections.Immutable/6.0.0": {
       "type": "package",
       "serviceable": true,
@@ -816,6 +886,20 @@
       "sha512": "sha512-aeu4FlaUTemuT1qOd1MyU4T516QR4Fy+9yDbwWMPHOHy7U8FD6SgTzdZFO7gHcfAPHtECqInbwklVvUK4RHcNg==",
       "path": "system.text.encoding.codepages/4.7.0",
       "hashPath": "system.text.encoding.codepages.4.7.0.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OP6umVGxc0Z0MvZQBVigj4/U31Pw72ITihDWP9WiWDm+q5aoe0GaJivsfYGq53o6dxH7DcXWiCTl7+0o2CGdmg==",
+      "path": "system.text.encodings.web/7.0.0",
+      "hashPath": "system.text.encodings.web.7.0.0.nupkg.sha512"
+    },
+    "System.Text.Json/7.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/LZf/JrGyilojqwpaywb+sSz8Tew7ij4K/Sk+UW8AKfAK7KRhR6mKpKtTm06cYA7bCpGTWfYksIW+mVsdxPegQ==",
+      "path": "system.text.json/7.0.2",
+      "hashPath": "system.text.json.7.0.2.nupkg.sha512"
     },
     "System.Windows.Extensions/4.7.0": {
       "type": "package",

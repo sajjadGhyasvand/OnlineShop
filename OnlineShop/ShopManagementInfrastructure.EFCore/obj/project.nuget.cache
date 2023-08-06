@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xBzGpM4ZiiOm4g5cUYBzShI7oi+/a5HoZQ0KYAvxaopogv+BDBY16GibTdp4m8vBQX2rBnpn4W5acsljIPEtYw==",
+  "dgSpecHash": "Tb6qCCsertkM2+SILlqPWPtEidhr/p72vBpV2G8aUMzI5VXK6eQJr7t92IAnmfG+yjlARDqdaxGnu79SyTOeWQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagementInfrastructure.EFCore\\ShopManagementInfrastructure.EFCore.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,8 @@
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\restsharp.serializers.systemtextjson\\106.15.0\\restsharp.serializers.systemtextjson.106.15.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
@@ -46,6 +48,8 @@
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
+    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []

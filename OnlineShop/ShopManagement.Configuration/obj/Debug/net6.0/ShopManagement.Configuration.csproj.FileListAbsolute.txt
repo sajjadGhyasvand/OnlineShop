@@ -58,3 +58,5 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configura
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Application.Contract.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Domain.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\ShopManagement.Infrastructure.InventoryACL.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\ShopManagement.Infrastructure.InventoryACL.pdb

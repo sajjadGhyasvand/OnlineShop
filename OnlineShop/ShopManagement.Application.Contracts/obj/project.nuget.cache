@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ytUpIMPsJZqgS+jVpcdONC0aXX+M0l1/rQP6LtdJLCLICQFEZ1m1Zu3nkbqTIe1AV1RCNzqbHE7byWzjICBZkg==",
+  "dgSpecHash": "qNR+BMKHjcrAfjkFTY9WHlm8GcKgkdC3i2KpPdQUuqA+IDkm7eEa2DEug+xSM2ztorPL3SOYM09bZNc9CWakxw==",
   "success": true,
   "projectFilePath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
   "expectedPackageFiles": [
@@ -15,9 +15,13 @@
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\restsharp.serializers.systemtextjson\\106.15.0\\restsharp.serializers.systemtextjson.106.15.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
-    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
   ],
   "logs": []
 }

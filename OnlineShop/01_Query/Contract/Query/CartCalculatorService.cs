@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace _01_Query.Contract.Query
 {
-    public class CartCalculatorService
+    public class CartCalculatorService : ICartCalculatorService
     {
         /*private readonly IAuthHelper _authHelper;*/
         private readonly DiscountContext _discountContext;

@@ -116,6 +116,14 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.16, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            },
+            "RestSharp.Serializers.SystemTextJson": {
+              "target": "Package",
+              "version": "[106.15.0, )"
             }
           },
           "imports": [
@@ -741,6 +749,9 @@
               "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
                 "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
               },
+              "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Infrastructure.InventoryACL\\ShopManagement.Infrastructure.InventoryACL.csproj": {
+                "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Infrastructure.InventoryACL\\ShopManagement.Infrastructure.InventoryACL.csproj"
+              },
               "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagementInfrastructure.EFCore\\ShopManagementInfrastructure.EFCore.csproj": {
                 "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagementInfrastructure.EFCore\\ShopManagementInfrastructure.EFCore.csproj"
               }
@@ -836,6 +847,72 @@
               "version": "[6.0.16, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Infrastructure.InventoryACL\\ShopManagement.Infrastructure.InventoryACL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Infrastructure.InventoryACL\\ShopManagement.Infrastructure.InventoryACL.csproj",
+        "projectName": "ShopManagement.Infrastructure.InventoryACL",
+        "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Infrastructure.InventoryACL\\ShopManagement.Infrastructure.InventoryACL.csproj",
+        "packagesPath": "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Infrastructure.InventoryACL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\S.Ghiasvand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\InventoryManagement.Application.Contracts\\InventoryManagement.Application.Contract.csproj": {
+                "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\InventoryManagement.Application.Contracts\\InventoryManagement.Application.Contract.csproj"
+              },
+              "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
