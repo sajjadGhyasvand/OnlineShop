@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cnn4POEm/9GL6MOJFLXCOI9WQEUTdEtJXI5pvqmsbi/36Fu8HyVDFWINPEjcsy74lKwLw46JjNxLWalpOtuCtA==",
+  "dgSpecHash": "7ua8HeuFZ4W8EXSyPCZvt4ygxYveTtUtyoKhBD8XoUnpKOR4iiuu0H4bDE9gpK4gYKJRErh22XoStABOp2yHdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj",
+  "projectFilePath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\0_FrameWork\\0_FrameWork.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.16\\microsoft.entityframeworkcore.6.0.16.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.16\\microsoft.entityframeworkcore.abstractions.6.0.16.nupkg.sha512",

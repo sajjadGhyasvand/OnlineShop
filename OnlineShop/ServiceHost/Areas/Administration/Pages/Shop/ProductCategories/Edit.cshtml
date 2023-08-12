@@ -16,7 +16,6 @@
       enctype="multipart/form-data">
     <div class="modal-body">
         <div class="row">
-            <input type="hidden" asp-for="Id" value="model.Id" />
             <div class="col-md-6">
                 <div class="form-group">
                     <label asp-for="Name" class="control-label">نام</label>
@@ -35,7 +34,7 @@
             <div class="col-md-12">
                 <div class="form-group">
                     <label asp-for="Picture" class="control-label">عکس</label>
-                    <input type="text" class="form-control" asp-for="Picture" accept="image/*">
+                    <input type="file" class="form-control" asp-for="Picture" accept="image/*">
                     <span asp-validation-for="Picture" class="error"></span>
                 </div>
             </div>
@@ -85,6 +84,8 @@
                 </div>
             </div>
         </div>
+            <input type="hidden" asp-for="Id" value="@Model.Id" />
+
     </div>
     <div class="modal-footer">
         <button type="button" class="btn btn-default waves-effect" data-dismiss="modal">بستن</button>

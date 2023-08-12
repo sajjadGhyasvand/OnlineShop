@@ -24,8 +24,8 @@ namespace ShopManagement.Application
             if (_productCategoryRepository.Exists(x=>x.Name == command.Name))
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
             var slug = command.Slug.Slugify();
-            var productCategory = new ProductCategory(command.Name,command.Picture,command.Description,
-               command.MetaDescription,command.PictureTitle,command.PictureAlt,command.KeyWords, slug);
+            var productCategory = new ProductCategory(command.PictureTitle,"", command.Description, command.PictureAlt, command.Name,
+               command.KeyWords,command.MetaDescription, slug);
 
             _productCategoryRepository.Create(productCategory);
             _productCategoryRepository.SaveChanges();
@@ -37,13 +37,12 @@ namespace ShopManagement.Application
             var operation = new OprationResult();
             var slug = command.Slug.Slugify();
             var productionCategory =_productCategoryRepository.Get(command.Id);
-            if (productionCategory != null)
+            if (productionCategory == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound);
             if (_productCategoryRepository.Exists(x => x.Name == command.Name && x.Id != command.Id))
                 return operation.Failed(ApplicationMessages.RecordNotFound);
-            productionCategory.Edit(command.Name, command.Picture, command.Description,
-               command.MetaDescription, command.PictureTitle, command.PictureAlt, command.KeyWords,
-               slug);
+            productionCategory.Edit(command.PictureTitle, command.PictureAlt, "", command.Description, command.Name,
+               command.KeyWords,  command.MetaDescription,   slug);
             _productCategoryRepository.SaveChanges();
             return operation.succedde();
 
