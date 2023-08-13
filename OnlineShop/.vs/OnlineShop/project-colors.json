@@ -110,7 +110,12 @@
       "ProjectGuid": "544eb2a3-8cbd-4388-b673-3e71660516e2",
       "DisplayName": "InventoryManagement.Application",
       "ColorIndex": 4
+    },
+    "0c1892c1-6008-4f4d-b6a4-09575cf789d1": {
+      "ProjectGuid": "0c1892c1-6008-4f4d-b6a4-09575cf789d1",
+      "DisplayName": "ShopManagement.Infrastructure.InventoryACL",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }

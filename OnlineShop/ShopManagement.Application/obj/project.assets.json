@@ -283,6 +283,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "5.0.17",
           "Microsoft.EntityFrameworkCore": "6.0.16",
           "RestSharp": "110.2.0",
           "RestSharp.Serializers.SystemTextJson": "106.15.0"

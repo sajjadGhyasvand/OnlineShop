@@ -13,10 +13,12 @@ namespace ShopManagement.Application
 {
     public class ProductCategoryApplication : IProductCategoryApplication
     {
+        private readonly IFileUploader _fileUploader;
         private readonly IProductCategoryRepository _productCategoryRepository;
-        public ProductCategoryApplication(IProductCategoryRepository productCategoryRepository)
+        public ProductCategoryApplication(IProductCategoryRepository productCategoryRepository, IFileUploader fileUploader)
         {
             _productCategoryRepository= productCategoryRepository;
+            _fileUploader=fileUploader;
         }
         public OprationResult Create(CreateProductCategory command)
         {
@@ -41,7 +43,9 @@ namespace ShopManagement.Application
                 return operation.Failed(ApplicationMessages.RecordNotFound);
             if (_productCategoryRepository.Exists(x => x.Name == command.Name && x.Id != command.Id))
                 return operation.Failed(ApplicationMessages.RecordNotFound);
-            productionCategory.Edit(command.PictureTitle, command.PictureAlt, "", command.Description, command.Name,
+            var picturePath = $"{command.Slug}";
+            var fileName = _fileUploader.Upload(command.Picture,picturePath);
+            productionCategory.Edit(command.PictureTitle, command.PictureAlt, fileName , command.Description, command.Name,
                command.KeyWords,  command.MetaDescription,   slug);
             _productCategoryRepository.SaveChanges();
             return operation.succedde();
