@@ -15,9 +15,10 @@ namespace ServiceHost
         {
 
             if (file == null) return string.Empty;
-             var directoryPath = $"{_webHostEnvironment.WebRootPath }//ProductPicture//{path}";
+             var directoryPath = $"{_webHostEnvironment.WebRootPath }//UploadedFiles//{path}";
             if (!Directory.Exists(directoryPath))
                 Directory.CreateDirectory(directoryPath);
+    
             var  filePath  = $"{directoryPath}//{file.FileName}";
             using var output = System.IO.File.Create(filePath);
             file.CopyToAsync(output).Wait();

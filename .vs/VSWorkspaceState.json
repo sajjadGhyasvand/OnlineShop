@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\OnlineShop",
+    "\\OnlineShop\\ServiceHost",
+    "\\OnlineShop\\ServiceHost\\Areas",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories"
   ],
-  "SelectedNode": "\\OnlineShop.sln",
+  "SelectedNode": "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml.cs",
   "PreviewInSolutionExplorer": false
 }

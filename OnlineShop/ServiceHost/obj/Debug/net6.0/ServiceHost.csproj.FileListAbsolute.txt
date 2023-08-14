@@ -306,3 +306,4 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\obj\Debug\
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\obj\Debug\net6.0\ref\ServiceHost.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.genruntimeconfig.cache
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cs
