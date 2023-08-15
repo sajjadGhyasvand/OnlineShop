@@ -23,6 +23,9 @@
   <ItemGroup>
     <Folder Include="NewFolder\" />
     <Folder Include="wwwroot\UploadedFiles\" />
+    <Folder Include="wwwroot\UploadedFiles\آباژور\" />
+    <Folder Include="wwwroot\UploadedFiles\دکوری\" />
+    <Folder Include="wwwroot\UploadedFiles\چراغ\" />
   </ItemGroup>
 
 </Project>

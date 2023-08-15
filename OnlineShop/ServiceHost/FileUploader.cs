@@ -18,11 +18,12 @@ namespace ServiceHost
              var directoryPath = $"{_webHostEnvironment.WebRootPath }//UploadedFiles//{path}";
             if (!Directory.Exists(directoryPath))
                 Directory.CreateDirectory(directoryPath);
-    
-            var  filePath  = $"{directoryPath}//{file.FileName}";
+
+            var fileName = $"{DateTime.Now.ToFileName()}-{file.FileName}";
+            var  filePath  = $"{directoryPath}//{fileName}";
             using var output = System.IO.File.Create(filePath);
             file.CopyToAsync(output).Wait();
-            return $"{path}/{file.FileName}";
+            return $"{path}/{fileName}";
         }
     }
 }
