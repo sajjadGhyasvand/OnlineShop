@@ -28,9 +28,9 @@ namespace ShopManagement.Domain.ProductAgg
 
         public long CategoryId { get; private set; }
 
-        
 
-        public Product(string name, string code, string picture, string pictureAlt, string pictureTitle, string description, long categoryId, string slug, string keywords, string metaDescription,string shortDescription)
+
+        public Product(string name, string code, string picture, string pictureAlt, string pictureTitle, string description, long categoryId, string slug, string keywords, string metaDescription, string shortDescription)
         {
             Name=name;
             Code=code;
@@ -42,13 +42,14 @@ namespace ShopManagement.Domain.ProductAgg
             Slug=slug;
             Keywords=keywords;
             MetaDescription=metaDescription;
+            ShortDescription=shortDescription;
         }
 
 
-        public void Edit(string name, string code, double unitPrice,
+        public void Edit(string name, string code,
             string shortDescription, string description, string picture,
             string pictureAlt, string pictureTitle, string slug, string keywords,
-            string metaDescription)
+            string metaDescription, long categoryId)
         {
             Name=name;
             ShortDescription=shortDescription;
@@ -61,6 +62,7 @@ namespace ShopManagement.Domain.ProductAgg
             Keywords=keywords;
             MetaDescription=metaDescription;
             Code=code;
-        }  
+            CategoryId=categoryId;
+        }
     }
 }

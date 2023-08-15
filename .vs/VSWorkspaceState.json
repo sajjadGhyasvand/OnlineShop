@@ -8,9 +8,11 @@
     "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages",
     "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop",
     "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories",
+    "\\OnlineShop\\ShopManagement.Application.Contracts",
+    "\\OnlineShop\\ShopManagement.Application.Contracts\\ProductCategory",
     "\\OnlineShop\\ShopManagementInfrastructure.EFCore",
     "\\OnlineShop\\ShopManagementInfrastructure.EFCore\\Repository"
   ],
-  "SelectedNode": "\\OnlineShop\\ShopManagementInfrastructure.EFCore\\Repository\\ProductCategoryRepository.cs",
+  "SelectedNode": "\\OnlineShop\\ShopManagement.Application.Contracts\\ProductCategory\\CreateProductCategory.cs",
   "PreviewInSolutionExplorer": false
 }

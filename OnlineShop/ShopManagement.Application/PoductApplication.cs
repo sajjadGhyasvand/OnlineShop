@@ -32,10 +32,10 @@ namespace ShopManagement.Application
             if (_productRepository.Exists(x => x.Name == command.Name))
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
             var slug = command.Slug.Slugify();
-            var product = new Product(command.Name,command.Code,
-                                      picturePath, command.PictureAlt,command.PictureTitle,
-                                      command.Description,command.CategoryId,slug, 
-                                      command.Keywords,command.MetaDescription,command.ShortDescription);
+            var product = new Product(command.Name, command.Code,
+                                      picturePath, command.PictureAlt, command.PictureTitle,
+                                      command.Description, command.CategoryId, slug,
+                                      command.Keywords, command.MetaDescription, command.ShortDescription);
             _productRepository.Create(product);
             _productRepository.SaveChanges();
             return operation.succedde();
@@ -53,9 +53,9 @@ namespace ShopManagement.Application
             var path = $"{product.Category.Slug}//{command.Slug}";
             var picturePath = _fileUploader.Upload(command.Picture, path);
 
-            product.Edit(command.Name,command.Code,command.UnitPrice,
-                command.ShortDescription, picturePath, command.PictureAlt, command.PictureTitle,
-                command.Description,slug, command.Keywords, command.MetaDescription);
+            product.Edit(command.Name, command.Code,
+                command.ShortDescription, command.Description, picturePath, command.PictureAlt, command.PictureTitle,
+                slug, command.Keywords, command.MetaDescription, command.CategoryId);
             _productRepository.SaveChanges();
             return operation.succedde();
         }
