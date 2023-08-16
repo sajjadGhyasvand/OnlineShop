@@ -1,6 +1,7 @@
 using _0_Framework.Application.ZarinPal;
 using _0_FrameWork.Application;
 using _0_FrameWork.Application.ZarinPal;
+using BlogManagment.Infrastructure.Configuration;
 using DiscountManagement.Configuration;
 using InventoryManagement.Infrastructure.Configurations;
 using ServiceHost;
@@ -14,6 +15,7 @@ var connectionstring = builder.Configuration.GetConnectionString("LampshadeDb");
 ShopManagementBootstrapper.Configure(builder.Services, connectionstring);
 DiscountManagementBootstraper.Configure(builder.Services, connectionstring);
 InventoryManagmentBootstrapper.Configure(builder.Services, connectionstring);
+BlogManagmentBootstrapper.Configure(builder.Services, connectionstring);
 builder.Services.AddTransient<IZarinPalFactory,ZarinPalFactory>();
 builder.Services.AddTransient<IFileUploader, FileUploader>();
 builder.Services.AddRazorPages();
