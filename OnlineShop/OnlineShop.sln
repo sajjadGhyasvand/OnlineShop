@@ -68,7 +68,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagement.Application", "InventoryManagement.Application\InventoryManagement.Application.csproj", "{544EB2A3-8CBD-4388-B673-3E71660516E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopManagement.Infrastructure.InventoryACL", "ShopManagement.Infrastructure.InventoryACL\ShopManagement.Infrastructure.InventoryACL.csproj", "{0C1892C1-6008-4F4D-B6A4-09575CF789D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopManagement.Infrastructure.InventoryACL", "ShopManagement.Infrastructure.InventoryACL\ShopManagement.Infrastructure.InventoryACL.csproj", "{0C1892C1-6008-4F4D-B6A4-09575CF789D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BlogManagment", "BlogManagment", "{A5617AA8-06DD-4AC4-9E1E-F9AC847CF8F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BM.Domain", "BM.Domain", "{92FCAEA4-9AEA-4E7C-AE87-65AC7A977850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogManagment.Domain", "BlogManagment.Domain\BlogManagment.Domain.csproj", "{59ED026C-2A3A-4E1A-8E06-860EFBC4C1AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BM.Application", "BM.Application", "{F8E41C6A-79AE-4B0D-B484-FD744E4B9DD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogManagment.Application.Contracts", "BlogManagment.Application.Contracts\BlogManagment.Application.Contracts.csproj", "{DEBC73AA-C6AB-4D2A-91AD-940FEABFE282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogManagment.Application", "BlogManagment.Application\BlogManagment.Application.csproj", "{3792C4AD-DEF5-42D4-816A-114415C44FE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -152,6 +164,18 @@ Global
 		{0C1892C1-6008-4F4D-B6A4-09575CF789D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C1892C1-6008-4F4D-B6A4-09575CF789D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C1892C1-6008-4F4D-B6A4-09575CF789D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59ED026C-2A3A-4E1A-8E06-860EFBC4C1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59ED026C-2A3A-4E1A-8E06-860EFBC4C1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59ED026C-2A3A-4E1A-8E06-860EFBC4C1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59ED026C-2A3A-4E1A-8E06-860EFBC4C1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEBC73AA-C6AB-4D2A-91AD-940FEABFE282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBC73AA-C6AB-4D2A-91AD-940FEABFE282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBC73AA-C6AB-4D2A-91AD-940FEABFE282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBC73AA-C6AB-4D2A-91AD-940FEABFE282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3792C4AD-DEF5-42D4-816A-114415C44FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3792C4AD-DEF5-42D4-816A-114415C44FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3792C4AD-DEF5-42D4-816A-114415C44FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3792C4AD-DEF5-42D4-816A-114415C44FE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -182,6 +206,11 @@ Global
 		{9246CB9F-3C5E-400E-91EC-5193C51A4277} = {A97523E2-6550-4B24-A7FA-D9040F769870}
 		{544EB2A3-8CBD-4388-B673-3E71660516E2} = {B9CDC382-1AFC-4E38-935D-1F16C25A2BA2}
 		{0C1892C1-6008-4F4D-B6A4-09575CF789D1} = {017FE06C-4E98-47C4-93A0-D346B7B6F8FE}
+		{92FCAEA4-9AEA-4E7C-AE87-65AC7A977850} = {A5617AA8-06DD-4AC4-9E1E-F9AC847CF8F9}
+		{59ED026C-2A3A-4E1A-8E06-860EFBC4C1AD} = {92FCAEA4-9AEA-4E7C-AE87-65AC7A977850}
+		{F8E41C6A-79AE-4B0D-B484-FD744E4B9DD7} = {A5617AA8-06DD-4AC4-9E1E-F9AC847CF8F9}
+		{DEBC73AA-C6AB-4D2A-91AD-940FEABFE282} = {F8E41C6A-79AE-4B0D-B484-FD744E4B9DD7}
+		{3792C4AD-DEF5-42D4-816A-114415C44FE1} = {F8E41C6A-79AE-4B0D-B484-FD744E4B9DD7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D2EDEA34-9F81-4CA1-96B2-2A9483845BD9}
