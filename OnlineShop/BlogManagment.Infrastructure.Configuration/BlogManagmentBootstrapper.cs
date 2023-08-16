@@ -15,7 +15,7 @@ namespace BlogManagment.Infrastructure.Configuration
             services.AddTransient<IArticleCategoryApplication, ArticleCategoryApplication>();
             services.AddTransient<IArticleCategoryRepository, ArticleCategoryRepository>();
 
-            services.AddDbContext<BlogContext>(x => x.UseSqlServer());
+            services.AddDbContext<BlogContext>(x => x.UseSqlServer(connectionString));
         }
     }
 }

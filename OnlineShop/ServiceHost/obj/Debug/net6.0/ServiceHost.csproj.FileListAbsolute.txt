@@ -307,3 +307,13 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\obj\Debug\
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.genruntimeconfig.cache
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\BlogManagement.Infrastructure.EFCore.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\BlogManagment.Application.Contracts.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\BlogManagment.Application.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\BlogManagment.Domain.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\BlogManagment.Infrastructure.Configuration.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\BlogManagment.Infrastructure.Configuration.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\BlogManagement.Infrastructure.EFCore.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\BlogManagment.Application.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\BlogManagment.Application.Contracts.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\BlogManagment.Domain.pdb

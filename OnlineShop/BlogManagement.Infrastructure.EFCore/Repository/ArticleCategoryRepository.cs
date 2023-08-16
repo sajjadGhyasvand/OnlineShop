@@ -1,4 +1,5 @@
-﻿using _0_FrameWork.Infrastructure;
+﻿using _0_FrameWork.Application;
+using _0_FrameWork.Infrastructure;
 using BlogManagment.Application.Contracts.ArticleCategory;
 using BlogManagment.Domain.ArticleCategoryAgg;
 using System;
@@ -23,6 +24,8 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
             return _context.ArticleCategories.Select(c => new EditArticleCategory { 
             Id = c.Id,
             Name = c.Name,
+            PictureAlt = c.PictureAlt,
+            PictureTitle=c.PictureTitle,
             CanonicalAddress = c.CanonicalAddress,
             Description = c.Description,
             KeyWords = c.KeyWords,
@@ -39,10 +42,12 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
                 Description = x.Description,
                 Name = x.Name,
                 ShowOrder =x.ShowOrder,
-                Picture = x.Picture
+                Picture = x.Picture,
+                CreationDate = x.CreationDate.ToFarsi()
             });
             if (!string.IsNullOrWhiteSpace(searchModel.Name))
                 query = query.Where(x=>x.Name.Contains(searchModel.Name));
+
             return query.OrderByDescending(x=>x.ShowOrder).ToList();
         }
     }
