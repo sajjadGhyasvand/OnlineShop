@@ -10,7 +10,7 @@ namespace ShopManagement.Domain.ProductCategoryAgg
 {
     public class ProductCategory : EntityBase
     {
-        
+
         public string Name { get; private set; }
         public string Description { get; private set; }
         public string Picture { get; private set; }
@@ -42,7 +42,7 @@ namespace ShopManagement.Domain.ProductCategoryAgg
             Name=name;
             Description=description;
             if (!string.IsNullOrEmpty(picture))
-            Picture=picture;
+                Picture=picture;
             PictureAlt=pictureAlt;
             PictureTitle=pictureTitle;
             KeyWords=keyWords;

@@ -7,12 +7,10 @@
     "\\OnlineShop\\ServiceHost\\Areas\\Administration",
     "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages",
     "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop",
-    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories",
-    "\\OnlineShop\\ShopManagement.Application.Contracts",
-    "\\OnlineShop\\ShopManagement.Application.Contracts\\ProductCategory",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures",
     "\\OnlineShop\\ShopManagementInfrastructure.EFCore",
     "\\OnlineShop\\ShopManagementInfrastructure.EFCore\\Repository"
   ],
-  "SelectedNode": "\\OnlineShop\\ShopManagement.Application.Contracts\\ProductCategory\\CreateProductCategory.cs",
+  "SelectedNode": "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

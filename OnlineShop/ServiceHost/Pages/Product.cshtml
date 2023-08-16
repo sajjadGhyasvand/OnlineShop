@@ -61,13 +61,13 @@
                                                 ]'>
 
                                                 <div class="single-image">
-                                                    <img src="@Model.Product.Picture" class="img-fluid"
+                                                    <img src="/UploadedFiles/@Model.Product.Picture" class="img-fluid"
                                                          alt="@Model.Product.Picture">
                                                 </div>
                                                 @foreach (var picture in Model.Product.Pictures)
                                                 {
                                                     <div class="single-image">
-                                                        <img src="@picture.Picture" class="img-fluid"
+                                                        <img src="/UploadedFiles/@picture.Picture" class="img-fluid"
                                                              alt="@picture.PictureAlt" title="@picture.PictureTitle">
                                                     </div>
                                                 }
@@ -103,7 +103,7 @@
                                             @foreach (var picture in Model.Product.Pictures)
                                             {
                                                 <div class="single-image">
-                                                    <img src="@picture.Picture" class="img-fluid"
+                                                    <img src="/UploadedFiles/@picture.Picture" class="img-fluid"
                                                          alt="@picture.PictureAlt" title="@picture.PictureTitle">
                                                 </div>
                                             }
