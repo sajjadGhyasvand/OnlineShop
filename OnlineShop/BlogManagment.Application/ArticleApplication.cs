@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace BlogManagment.Application
 {
-    internal class ArticleApplication
+    public class ArticleApplication
     {
+
     }
 }

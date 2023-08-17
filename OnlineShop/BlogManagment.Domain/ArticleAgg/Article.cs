@@ -11,7 +11,7 @@ namespace BlogManagment.Domain.ArticleAgg
     public class Article : EntityBase
     {
         public string Title { get; private set; }
-        public string ShortDescription { get; private set; }
+        public string? ShortDescription { get; private set; }
         public string MetaDescription { get; private set; }
         public string Description { get; private set; }
         public string Picture { get; private set; }
@@ -24,12 +24,11 @@ namespace BlogManagment.Domain.ArticleAgg
         public long CategoryId { get; private set; }
         public ArticleCategory Category { get; private set; }
 
-        public Article(string title, string shortDescription, string description,
+        public Article(string title, string description,
             string picture, string pictureAlt, string pictureTitle,
             string slug, string keywords, string canonicalAddress, long categoryId, DateTime publishDate)
         {
             Title=title;
-            ShortDescription=shortDescription;
             Description=description;
             Picture=picture;
             PictureAlt=pictureAlt;
@@ -40,12 +39,11 @@ namespace BlogManagment.Domain.ArticleAgg
             CategoryId=categoryId;
             PublishDate=publishDate;
         }
-        public void Edit(string title, string shortDescription, string description,
+        public void Edit(string title, string description,
             string picture, string pictureAlt, string pictureTitle,
             string slug, string keywords, string canonicalAddress, long categoryId, DateTime publishDate)
         {
             Title=title;
-            ShortDescription=shortDescription;
             Description=description;
             if (!string.IsNullOrWhiteSpace(picture))
                 Picture=picture;
