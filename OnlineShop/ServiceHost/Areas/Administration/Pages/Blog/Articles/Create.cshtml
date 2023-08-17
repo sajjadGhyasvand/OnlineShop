@@ -1,4 +1,4 @@
-@page 
+@page
 @using ServiceHost.Areas.Administration.Pages.Blog.Articles
 @model CreateModel
 @{
@@ -14,18 +14,25 @@
             <div class="panel-body">
                 <form method="post" enctype="multipart/form-data">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-4">
                             <div class="form-group">
                                 <label asp-for="Command.Title" class="control-label">نام</label>
                                 <input type="text" class="form-control" asp-for="Command.Title" onchange="makeSlug('Name', 'Slug')">
                                 <span asp-validation-for="Command.Title" class="error"></span>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-4">
                             <div class="form-group">
                                 <label asp-for="Command.Slug" class="control-label">اسلاگ</label>
                                 <input type="text" class="form-control" asp-for="Command.Slug">
                                 <span asp-validation-for="Command.Slug" class="error"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label asp-for="Command.PublishDate" class="control-label">تاریخ پایان</label>
+                                <input type="text" class="form-control persianDateInput" asp-for="Command.PublishDate">
+                                <span asp-validation-for="Command.PublishDate" class="error"></span>
                             </div>
                         </div>
                     </div>
@@ -39,7 +46,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="form-group">
-                                <label  asp-for="Command.CategoryId">گروه مقاله</label>
+                                <label asp-for="Command.CategoryId">گروه مقاله</label>
                                 <Select class="form-control" asp-for="Command.CategoryId" asp-items="Model.ArticleCategories">
                                     <option value="0">گروه مقاله</option>
                                 </Select>
@@ -72,11 +79,11 @@
                             </div>
                         </div>
                     </div>
-                     <div class="row">
+                    <div class="row">
                         <div class="col-md-12">
                             <div class="form-group no-margin">
                                 <label asp-for="Command.Description" class="control-label">توضیحات</label>
-                                <textarea class="form-control autogrow" asp-for="Command.Description" 
+                                <textarea class="form-control autogrow" asp-for="Command.Description"
                                           style="overflow: hidden; word-wrap: break-word; resize: horizontal; height: 104px;"></textarea>
                                 <span asp-validation-for="Command.Description" class="error"></span>
                             </div>
