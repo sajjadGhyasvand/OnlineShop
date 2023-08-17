@@ -51,6 +51,11 @@ namespace BlogManagment.Application
             return operation.succedde();
         }
 
+        public List<ArticleCategoryViewModel> GetArticleCategories()
+        {
+           return _articleCategoryRepository.GetArticleCategories();
+        }
+
         public EditArticleCategory GetDetails(long id)
         {
            return _articleCategoryRepository.GetDetails(id);

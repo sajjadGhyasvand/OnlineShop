@@ -9,6 +9,7 @@ namespace BlogManagment.Application.Contracts.ArticleCategory
 {
     public interface IArticleCategoryApplication
     {
+        List<ArticleCategoryViewModel> GetArticleCategories();
         OprationResult Create(CreateArticleCategory command);
         OprationResult Edit(EditArticleCategory command);
         EditArticleCategory GetDetails(long id);

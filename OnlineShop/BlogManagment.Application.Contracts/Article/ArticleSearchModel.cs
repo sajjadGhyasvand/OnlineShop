@@ -6,6 +6,5 @@ namespace BlogManagment.Application.Contracts.Article
     {
         public string Title { get; set; }
         public long CategoryId { get; set; }
-        List<ArticleCategoryViewModel> Categories { get; set; }
     }
 }
