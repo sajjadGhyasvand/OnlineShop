@@ -8,9 +8,13 @@
     "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages",
     "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop",
     "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures",
+    "\\OnlineShop\\ShopManagement.Application",
+    "\\OnlineShop\\ShopManagement.Application.Contracts\\PoductPicture",
+    "\\OnlineShop\\ShopManagement.Domain",
+    "\\OnlineShop\\ShopManagement.Domain\\ProductPictureAgg",
     "\\OnlineShop\\ShopManagementInfrastructure.EFCore",
     "\\OnlineShop\\ShopManagementInfrastructure.EFCore\\Repository"
   ],
-  "SelectedNode": "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures\\Index.cshtml",
+  "SelectedNode": "\\OnlineShop\\OnlineShop.sln",
   "PreviewInSolutionExplorer": false
 }

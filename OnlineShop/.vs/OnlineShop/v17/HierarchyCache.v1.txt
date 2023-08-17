@@ -1,50 +1,57 @@
-﻿++Solution 'OnlineShop' ‎(19 of 19 projects)
-i:{00000000-0000-0000-0000-000000000000}:OnlineShop.sln
+﻿++Solution 'OnlineShop' ‎(23 of 23 projects)
 ++Solution Items
 i:{00000000-0000-0000-0000-000000000000}:Solution Items
 ++.editorconfig
 i:{f9c2cea8-5d6a-4278-84c1-7b8ef6d9da4b}:C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\.editorconfig
 i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\.editorconfig
-++0_FrameWork
-i:{00000000-0000-0000-0000-000000000000}:0_FrameWork
-i:{718f706b-e38d-4027-949f-b4b065edc5d1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\bin\debug\net6.0\0_framework.dll
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\bin\debug\net6.0\0_framework.dll
-i:{a70eed69-baee-4826-9a96-bf5ca1768920}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\bin\debug\net6.0\0_framework.dll
-i:{6568a34e-427c-41d5-98db-c172e10a05e1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\bin\debug\net6.0\0_framework.dll
-i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\bin\debug\net6.0\0_framework.dll
-i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\bin\debug\net6.0\0_framework.dll
+++BlogManagment
+i:{00000000-0000-0000-0000-000000000000}:BlogManagment
+++BM.Infrastructure
+i:{a5617aa8-06dd-4ac4-9e1e-f9ac847cf8f9}:BM.Infrastructure
+++BlogManagement.Infrastructure.EFCore
+i:{99472c50-9d1b-4067-82e1-6207343a0d76}:BlogManagement.Infrastructure.EFCore
+i:{5c38467e-60c6-4fe0-9dde-2d142830d635}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagement.infrastructure.efcore\blogmanagement.infrastructure.efcore.csproj
 ++Dependencies
-i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:>3723
-i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:>3728
-i:{718f706b-e38d-4027-949f-b4b065edc5d1}:>3731
-i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:>3721
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:>3725
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:>3730
-i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:>3732
-i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:>3734
-i:{a70eed69-baee-4826-9a96-bf5ca1768920}:>3733
-i:{6568a34e-427c-41d5-98db-c172e10a05e1}:>3722
-i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:>3729
-i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:>3724
-i:{7de8556a-0458-413f-a6e1-e851b3569124}:>3720
-i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:>3735
-i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:>3726
-i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:>3718
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:>3719
-i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:>3727
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:>4916
-++Application
-i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\application\
-++Domain
-i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\domain\
-++Infrastructure
-i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\infrastructure\
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:>5476
+i:{3792c4ad-def5-42d4-816a-114415c44fe1}:>5388
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:>5285
+i:{59ed026c-2a3a-4e1a-8e06-860efbc4c1ad}:>5193
+i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:>3568
+i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:>3567
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:>3571
+i:{718f706b-e38d-4027-949f-b4b065edc5d1}:>3561
+i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:>3566
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:>3574
+i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:>3572
+i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:>3740
+i:{a70eed69-baee-4826-9a96-bf5ca1768920}:>3569
+i:{6568a34e-427c-41d5-98db-c172e10a05e1}:>3563
+i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:>3565
+i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:>3570
+i:{7de8556a-0458-413f-a6e1-e851b3569124}:>3575
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:>3562
+i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:>3564
+i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:>3573
+i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:>3576
+i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:>3631
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:>4925
+i:{5c38467e-60c6-4fe0-9dde-2d142830d635}:>5576
+++Mappings
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagement.infrastructure.efcore\mappings\
+++ArticleCategoryMapping.cs
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagement.infrastructure.efcore\mappings\articlecategorymapping.cs
+++BlogContext.cs
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagement.infrastructure.efcore\blogcontext.cs
 ++Analyzers
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:analyzers
+i:{3792c4ad-def5-42d4-816a-114415c44fe1}:analyzers
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:analyzers
+i:{59ed026c-2a3a-4e1a-8e06-860efbc4c1ad}:analyzers
 i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:analyzers
 i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:analyzers
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:analyzers
 i:{718f706b-e38d-4027-949f-b4b065edc5d1}:analyzers
 i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:analyzers
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:analyzers
 i:{fcceea2f-689b-4da9-9875-20d2e8309047}:analyzers
 i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:analyzers
 i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:analyzers
@@ -53,18 +60,23 @@ i:{6568a34e-427c-41d5-98db-c172e10a05e1}:analyzers
 i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:analyzers
 i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:analyzers
 i:{7de8556a-0458-413f-a6e1-e851b3569124}:analyzers
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:analyzers
+i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:analyzers
 i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:analyzers
 i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:analyzers
 i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:analyzers
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:analyzers
-i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:analyzers
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:analyzers
+i:{5c38467e-60c6-4fe0-9dde-2d142830d635}:analyzers
 ++Frameworks
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:frameworks
+i:{3792c4ad-def5-42d4-816a-114415c44fe1}:frameworks
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:frameworks
+i:{59ed026c-2a3a-4e1a-8e06-860efbc4c1ad}:frameworks
 i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:frameworks
 i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:frameworks
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:frameworks
 i:{718f706b-e38d-4027-949f-b4b065edc5d1}:frameworks
 i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:frameworks
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:frameworks
 i:{fcceea2f-689b-4da9-9875-20d2e8309047}:frameworks
 i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:frameworks
 i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:frameworks
@@ -73,16 +85,19 @@ i:{6568a34e-427c-41d5-98db-c172e10a05e1}:frameworks
 i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:frameworks
 i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:frameworks
 i:{7de8556a-0458-413f-a6e1-e851b3569124}:frameworks
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:frameworks
+i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:frameworks
 i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:frameworks
 i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:frameworks
 i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:frameworks
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:frameworks
-i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:frameworks
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:frameworks
+i:{5c38467e-60c6-4fe0-9dde-2d142830d635}:frameworks
 ++Packages
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:packages
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:packages
 i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:packages
-i:{718f706b-e38d-4027-949f-b4b065edc5d1}:packages
 i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:packages
+i:{718f706b-e38d-4027-949f-b4b065edc5d1}:packages
 i:{fcceea2f-689b-4da9-9875-20d2e8309047}:packages
 i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:packages
 i:{6568a34e-427c-41d5-98db-c172e10a05e1}:packages
@@ -91,6 +106,253 @@ i:{7de8556a-0458-413f-a6e1-e851b3569124}:packages
 i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:packages
 i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:packages
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:packages
+i:{5c38467e-60c6-4fe0-9dde-2d142830d635}:packages
+++Projects
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:projects
+i:{3792c4ad-def5-42d4-816a-114415c44fe1}:projects
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:projects
+i:{59ed026c-2a3a-4e1a-8e06-860efbc4c1ad}:projects
+i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:projects
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:projects
+i:{718f706b-e38d-4027-949f-b4b065edc5d1}:projects
+i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:projects
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:projects
+i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:projects
+i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:projects
+i:{a70eed69-baee-4826-9a96-bf5ca1768920}:projects
+i:{6568a34e-427c-41d5-98db-c172e10a05e1}:projects
+i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:projects
+i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:projects
+i:{7de8556a-0458-413f-a6e1-e851b3569124}:projects
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:projects
+i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:projects
+i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:projects
+i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:projects
+i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:projects
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:projects
+i:{5c38467e-60c6-4fe0-9dde-2d142830d635}:projects
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{3792c4ad-def5-42d4-816a-114415c44fe1}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{59ed026c-2a3a-4e1a-8e06-860efbc4c1ad}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{718f706b-e38d-4027-949f-b4b065edc5d1}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{a70eed69-baee-4826-9a96-bf5ca1768920}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{6568a34e-427c-41d5-98db-c172e10a05e1}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7de8556a-0458-413f-a6e1-e851b3569124}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5c38467e-60c6-4fe0-9dde-2d142830d635}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{3792c4ad-def5-42d4-816a-114415c44fe1}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{59ed026c-2a3a-4e1a-8e06-860efbc4c1ad}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{718f706b-e38d-4027-949f-b4b065edc5d1}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{a70eed69-baee-4826-9a96-bf5ca1768920}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{6568a34e-427c-41d5-98db-c172e10a05e1}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7de8556a-0458-413f-a6e1-e851b3569124}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5c38467e-60c6-4fe0-9dde-2d142830d635}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{3792c4ad-def5-42d4-816a-114415c44fe1}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{59ed026c-2a3a-4e1a-8e06-860efbc4c1ad}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{718f706b-e38d-4027-949f-b4b065edc5d1}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{a70eed69-baee-4826-9a96-bf5ca1768920}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{6568a34e-427c-41d5-98db-c172e10a05e1}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{7de8556a-0458-413f-a6e1-e851b3569124}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5c38467e-60c6-4fe0-9dde-2d142830d635}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{3792c4ad-def5-42d4-816a-114415c44fe1}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{59ed026c-2a3a-4e1a-8e06-860efbc4c1ad}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{718f706b-e38d-4027-949f-b4b065edc5d1}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{a70eed69-baee-4826-9a96-bf5ca1768920}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{6568a34e-427c-41d5-98db-c172e10a05e1}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{7de8556a-0458-413f-a6e1-e851b3569124}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.21\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{5c38467e-60c6-4fe0-9dde-2d142830d635}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.21\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{3792c4ad-def5-42d4-816a-114415c44fe1}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.21\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.21\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{59ed026c-2a3a-4e1a-8e06-860efbc4c1ad}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.21\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{718f706b-e38d-4027-949f-b4b065edc5d1}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{a70eed69-baee-4826-9a96-bf5ca1768920}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{6568a34e-427c-41d5-98db-c172e10a05e1}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{7de8556a-0458-413f-a6e1-e851b3569124}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{5c38467e-60c6-4fe0-9dde-2d142830d635}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.21\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagement.infrastructure.efcore\microsoft.netcore.app
+i:{3792c4ad-def5-42d4-816a-114415c44fe1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.application\microsoft.netcore.app
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.application.contracts\microsoft.netcore.app
+i:{59ed026c-2a3a-4e1a-8e06-860efbc4c1ad}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.domain\microsoft.netcore.app
+i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\microsoft.netcore.app
+i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\01_query\microsoft.netcore.app
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\microsoft.netcore.app
+i:{718f706b-e38d-4027-949f-b4b065edc5d1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.application.contracts\microsoft.netcore.app
+i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.application\microsoft.netcore.app
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\microsoft.netcore.app
+i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.configuration\microsoft.netcore.app
+i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.infrastructure.inventoryacl\microsoft.netcore.app
+i:{a70eed69-baee-4826-9a96-bf5ca1768920}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.domain\microsoft.netcore.app
+i:{6568a34e-427c-41d5-98db-c172e10a05e1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.application.contract\microsoft.netcore.app
+i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.application\microsoft.netcore.app
+i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\microsoft.netcore.app
+i:{7de8556a-0458-413f-a6e1-e851b3569124}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.configuration\microsoft.netcore.app
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\microsoft.netcore.app
+i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.configurations\microsoft.netcore.app
+i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.domain\microsoft.netcore.app
+i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.application.contracts\microsoft.netcore.app
+i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.application\microsoft.netcore.app
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\microsoft.netcore.app
+i:{5c38467e-60c6-4fe0-9dde-2d142830d635}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.infrastructure.configuration\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.16)
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:>5550
+i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:>5143
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:>5064
+i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:>5057
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:>5051
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.16)
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:>5551
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:>5075
+i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:>5074
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:>5066
+++Microsoft.EntityFrameworkCore.Tools (6.0.16)
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:>5552
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:>5085
+i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:>5084
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:>5079
+++BlogManagment.Domain
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.domain\bin\debug\net6.0\blogmanagment.domain.dll
+i:{3792c4ad-def5-42d4-816a-114415c44fe1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.domain\bin\debug\net6.0\blogmanagment.domain.dll
+i:{92fcaea4-9aea-4e7c-ae87-65ac7a977850}:BlogManagment.Domain
+++BM.Application
+i:{a5617aa8-06dd-4ac4-9e1e-f9ac847cf8f9}:BM.Application
+++BlogManagment.Application
+i:{f8e41c6a-79ae-4b0d-b484-fd744e4b9dd7}:BlogManagment.Application
+i:{5c38467e-60c6-4fe0-9dde-2d142830d635}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.application\bin\debug\net6.0\blogmanagment.application.dll
+++ArticleCategoryApplication.cs
+i:{3792c4ad-def5-42d4-816a-114415c44fe1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.application\articlecategoryapplication.cs
+++BlogManagment.Application.Contracts
+i:{3792c4ad-def5-42d4-816a-114415c44fe1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.application.contracts\bin\debug\net6.0\blogmanagment.application.contracts.dll
+i:{f8e41c6a-79ae-4b0d-b484-fd744e4b9dd7}:BlogManagment.Application.Contracts
+i:{59ed026c-2a3a-4e1a-8e06-860efbc4c1ad}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.application.contracts\bin\debug\net6.0\blogmanagment.application.contracts.dll
+i:{5c38467e-60c6-4fe0-9dde-2d142830d635}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.application.contracts\bin\debug\net6.0\blogmanagment.application.contracts.dll
+++ArticleCategory
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.application.contracts\articlecategory\
+++ArticleCategorySearchModel.cs
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.application.contracts\articlecategory\articlecategorysearchmodel.cs
+++ArticleCategoryViewModel.cs
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.application.contracts\articlecategory\articlecategoryviewmodel.cs
+++CreateArticleCategory.cs
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.application.contracts\articlecategory\createarticlecategory.cs
+++EditArticleCategory.cs
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.application.contracts\articlecategory\editarticlecategory.cs
+++IArticleCategoryApplication.cs
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.application.contracts\articlecategory\iarticlecategoryapplication.cs
+++Microsoft.AspNetCore.Http.Features (5.0.17)
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:>5366
+i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:>5141
+i:{718f706b-e38d-4027-949f-b4b065edc5d1}:>5055
+++0_FrameWork
+i:{debc73aa-c6ab-4d2a-91ad-940feabfe282}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\bin\debug\net6.0\0_framework.dll
+i:{59ed026c-2a3a-4e1a-8e06-860efbc4c1ad}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\bin\debug\net6.0\0_framework.dll
+i:{00000000-0000-0000-0000-000000000000}:0_FrameWork
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\bin\debug\net6.0\0_framework.dll
+i:{718f706b-e38d-4027-949f-b4b065edc5d1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\bin\debug\net6.0\0_framework.dll
+i:{a70eed69-baee-4826-9a96-bf5ca1768920}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\bin\debug\net6.0\0_framework.dll
+i:{6568a34e-427c-41d5-98db-c172e10a05e1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\bin\debug\net6.0\0_framework.dll
+i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\bin\debug\net6.0\0_framework.dll
+i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\bin\debug\net6.0\0_framework.dll
+++BM.Domain
+i:{a5617aa8-06dd-4ac4-9e1e-f9ac847cf8f9}:BM.Domain
+++ArticleCategoryAgg
+i:{59ed026c-2a3a-4e1a-8e06-860efbc4c1ad}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.domain\articlecategoryagg\
+++ArticleCategory.cs
+i:{59ed026c-2a3a-4e1a-8e06-860efbc4c1ad}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.domain\articlecategoryagg\articlecategory.cs
+++IArticleCategoryRepository.cs
+i:{59ed026c-2a3a-4e1a-8e06-860efbc4c1ad}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.domain\articlecategoryagg\iarticlecategoryrepository.cs
+++Application
+i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\application\
+++Domain
+i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\domain\
+++Infrastructure
+i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\infrastructure\
 ++ZarinPal
 i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\application\zarinpal\
 ++ApplicationMessages.cs
@@ -117,140 +379,12 @@ i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\source\repos\onlin
 i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\domain\irepository.cs
 ++RepositoryBase.cs
 i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\infrastructure\repositorybase.cs
-++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
-i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{718f706b-e38d-4027-949f-b4b065edc5d1}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{a70eed69-baee-4826-9a96-bf5ca1768920}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{6568a34e-427c-41d5-98db-c172e10a05e1}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{7de8556a-0458-413f-a6e1-e851b3569124}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-++Microsoft.CodeAnalysis.NetAnalyzers
-i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{718f706b-e38d-4027-949f-b4b065edc5d1}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{a70eed69-baee-4826-9a96-bf5ca1768920}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{6568a34e-427c-41d5-98db-c172e10a05e1}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{7de8556a-0458-413f-a6e1-e851b3569124}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-++Microsoft.EntityFrameworkCore.Analyzers
-i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{718f706b-e38d-4027-949f-b4b065edc5d1}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{a70eed69-baee-4826-9a96-bf5ca1768920}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{6568a34e-427c-41d5-98db-c172e10a05e1}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{7de8556a-0458-413f-a6e1-e851b3569124}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-++Microsoft.Extensions.Logging.Generators
-i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{718f706b-e38d-4027-949f-b4b065edc5d1}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{a70eed69-baee-4826-9a96-bf5ca1768920}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{6568a34e-427c-41d5-98db-c172e10a05e1}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{7de8556a-0458-413f-a6e1-e851b3569124}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:c:\users\s.ghiasvand\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.21\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-++System.Text.Json.SourceGeneration
-i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{718f706b-e38d-4027-949f-b4b065edc5d1}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{a70eed69-baee-4826-9a96-bf5ca1768920}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{6568a34e-427c-41d5-98db-c172e10a05e1}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{7de8556a-0458-413f-a6e1-e851b3569124}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\.nuget\packages\system.text.json\7.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
-++Microsoft.NETCore.App
-i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\microsoft.netcore.app
-i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\01_query\microsoft.netcore.app
-i:{718f706b-e38d-4027-949f-b4b065edc5d1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.application.contracts\microsoft.netcore.app
-i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.application\microsoft.netcore.app
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\microsoft.netcore.app
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\microsoft.netcore.app
-i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.configuration\microsoft.netcore.app
-i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.infrastructure.inventoryacl\microsoft.netcore.app
-i:{a70eed69-baee-4826-9a96-bf5ca1768920}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.domain\microsoft.netcore.app
-i:{6568a34e-427c-41d5-98db-c172e10a05e1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.application.contract\microsoft.netcore.app
-i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.application\microsoft.netcore.app
-i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\microsoft.netcore.app
-i:{7de8556a-0458-413f-a6e1-e851b3569124}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.configuration\microsoft.netcore.app
-i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.domain\microsoft.netcore.app
-i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.application.contracts\microsoft.netcore.app
-i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.application\microsoft.netcore.app
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\microsoft.netcore.app
-i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.configurations\microsoft.netcore.app
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\microsoft.netcore.app
-++Microsoft.AspNetCore.Http.Features (5.0.17)
-i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:>5060
-i:{718f706b-e38d-4027-949f-b4b065edc5d1}:>5127
 ++Microsoft.AspNetCore.Mvc.Abstractions (2.2.0)
-i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:>5094
-++Microsoft.EntityFrameworkCore (6.0.16)
-i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:>5066
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:>5043
-i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:>5048
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:>5074
+i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:>5145
 ++RestSharp (110.2.0)
-i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:>5096
+i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:>5146
 ++RestSharp.Serializers.SystemTextJson (106.15.0)
-i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:>5053
+i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:>5139
 ++IZarinPalFactory.cs
 i:{bc3da264-1b44-4ad9-9be0-44d778e37952}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\0_framework\application\zarinpal\izarinpalfactory.cs
 ++PaymentRequest.cs
@@ -270,25 +404,6 @@ i:{00000000-0000-0000-0000-000000000000}:01_Query
 i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\01_query\bin\debug\net6.0\01_query.dll
 ++Contract
 i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\01_query\contract\
-++Projects
-i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:projects
-i:{718f706b-e38d-4027-949f-b4b065edc5d1}:projects
-i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:projects
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:projects
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:projects
-i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:projects
-i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:projects
-i:{a70eed69-baee-4826-9a96-bf5ca1768920}:projects
-i:{6568a34e-427c-41d5-98db-c172e10a05e1}:projects
-i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:projects
-i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:projects
-i:{7de8556a-0458-413f-a6e1-e851b3569124}:projects
-i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:projects
-i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:projects
-i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:projects
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:projects
-i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:projects
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:projects
 ++Product
 i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\01_query\contract\product\
 i:{718f706b-e38d-4027-949f-b4b065edc5d1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.application.contracts\product\
@@ -340,15 +455,64 @@ i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:c:\users\s.ghiasvand\source\repos\onlin
 i:{f1c54eac-f8ed-4ac4-8864-53d60e523135}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\01_query\contract\slide\slidequerymodel.cs
 ++ShopManagement
 i:{00000000-0000-0000-0000-000000000000}:ShopManagement
-++SM.Application
-i:{5deb02c7-099c-491d-8aa8-ca2f3b1acb72}:SM.Application
+++SM.Domain
+i:{5deb02c7-099c-491d-8aa8-ca2f3b1acb72}:SM.Domain
+++ShopManagement.Domain
+i:{d91731ca-4420-4f96-8027-0ea1249b0026}:ShopManagement.Domain
+i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\bin\debug\net6.0\shopmanagement.domain.dll
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\bin\debug\net6.0\shopmanagement.domain.dll
+i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\bin\debug\net6.0\shopmanagement.domain.dll
+i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\bin\debug\net6.0\shopmanagement.domain.dll
+++OrderAgg
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\orderagg\
+++ProductAgg
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productagg\
+++ProductCategoryAgg
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productcategoryagg\
+++ProductPictureAgg
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productpictureagg\
+++Services
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\services\
+++SlideAgg
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\slideagg\
+++IOrderRepository.cs
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\orderagg\iorderrepository.cs
+++Order.cs
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\orderagg\order.cs
+++OrderItem.cs
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\orderagg\orderitem.cs
+++IProductRepository.cs
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productagg\iproductrepository.cs
+++Product.cs
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productagg\product.cs
+++IProductCategoryRepository.cs
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productcategoryagg\iproductcategoryrepository.cs
+++ProductCategory.cs
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productcategoryagg\productcategory.cs
+++IPoductPictureRepository.cs
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productpictureagg\ipoductpicturerepository.cs
+++ProductPicture.cs
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productpictureagg\productpicture.cs
+++IShopAccountAcl.cs
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\services\ishopaccountacl.cs
+++IShopInventoryAcl.cs
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\services\ishopinventoryacl.cs
+++ISlideRepository.cs
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\slideagg\isliderepository.cs
+++Slide.cs
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\slideagg\slide.cs
+++Microsoft.EntityFrameworkCore.Design (6.0.16)
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:>5076
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:>4938
 ++ShopManagement.Application.Contracts
+i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.application.contracts\bin\debug\net6.0\shopmanagement.application.contracts.dll
 i:{6c87030a-116b-456e-92fe-ea1dc22d33b0}:ShopManagement.Application.Contracts
 i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.application.contracts\bin\debug\net6.0\shopmanagement.application.contracts.dll
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.application.contracts\bin\debug\net6.0\shopmanagement.application.contracts.dll
 i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.application.contracts\bin\debug\net6.0\shopmanagement.application.contracts.dll
 i:{6568a34e-427c-41d5-98db-c172e10a05e1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.application.contracts\bin\debug\net6.0\shopmanagement.application.contracts.dll
 i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.application.contracts\bin\debug\net6.0\shopmanagement.application.contracts.dll
+++SM.Application
+i:{5deb02c7-099c-491d-8aa8-ca2f3b1acb72}:SM.Application
 ++Order
 i:{718f706b-e38d-4027-949f-b4b065edc5d1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.application.contracts\order\
 ++PoductPicture
@@ -422,55 +586,6 @@ i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\users\s.ghiasvand\source\repos\onlin
 i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.application\productpictureapplication.cs
 ++SlideApplication.cs
 i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.application\slideapplication.cs
-++ShopManagement.Domain
-i:{2d495f2b-e3c8-4287-991a-ea927cd82dd4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\bin\debug\net6.0\shopmanagement.domain.dll
-i:{d91731ca-4420-4f96-8027-0ea1249b0026}:ShopManagement.Domain
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\bin\debug\net6.0\shopmanagement.domain.dll
-i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\bin\debug\net6.0\shopmanagement.domain.dll
-i:{0c1892c1-6008-4f4d-b6a4-09575cf789d1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\bin\debug\net6.0\shopmanagement.domain.dll
-++SM.Domain
-i:{5deb02c7-099c-491d-8aa8-ca2f3b1acb72}:SM.Domain
-++OrderAgg
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\orderagg\
-++ProductAgg
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productagg\
-++ProductCategoryAgg
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productcategoryagg\
-++ProductPictureAgg
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productpictureagg\
-++Services
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\services\
-++SlideAgg
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\slideagg\
-++IOrderRepository.cs
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\orderagg\iorderrepository.cs
-++Order.cs
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\orderagg\order.cs
-++OrderItem.cs
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\orderagg\orderitem.cs
-++IProductRepository.cs
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productagg\iproductrepository.cs
-++Product.cs
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productagg\product.cs
-++IProductCategoryRepository.cs
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productcategoryagg\iproductcategoryrepository.cs
-++ProductCategory.cs
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productcategoryagg\productcategory.cs
-++IPoductPictureRepository.cs
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productpictureagg\ipoductpicturerepository.cs
-++ProductPicture.cs
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\productpictureagg\productpicture.cs
-++IShopAccountAcl.cs
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\services\ishopaccountacl.cs
-++IShopInventoryAcl.cs
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\services\ishopinventoryacl.cs
-++ISlideRepository.cs
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\slideagg\isliderepository.cs
-++Slide.cs
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.domain\slideagg\slide.cs
-++Microsoft.EntityFrameworkCore.Design (6.0.16)
-i:{1f7fb1a7-fc4a-42b7-8046-170df1b016e4}:>5149
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:>5052
 ++SM.Infrastructure
 i:{5deb02c7-099c-491d-8aa8-ca2f3b1acb72}:SM.Infrastructure
 ++Mapping
@@ -481,24 +596,7 @@ i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlin
 i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\migrations\
 i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\migrations\
 i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\migrations\
-++Repository
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\repository\
-i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\repository\
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\repository\
-++ShopContext.cs
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\shopcontext.cs
-++IEntityTypeConfiguration.cs
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\mapping\ientitytypeconfiguration.cs
-++OrderMapping.cs
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\mapping\ordermapping.cs
-++ProductCategoryMapping.cs
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\mapping\productcategorymapping.cs
-++ProductMapping.cs
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\mapping\productmapping.cs
-++ProductPictureMapping.cs
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\mapping\productpicturemapping.cs
-++SlideMapping.cs
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\mapping\slidemapping.cs
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagement.infrastructure.efcore\migrations\
 ++20230611194041_mig_initial_2.cs
 i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\migrations\20230611194041_mig_initial_2.cs
 ++20230621122505_mig_product.cs
@@ -515,24 +613,25 @@ i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlin
 i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\migrations\20230806091308_mig_order.cs
 ++ShopContextModelSnapshot.cs
 i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\migrations\shopcontextmodelsnapshot.cs
-++OrderRepository.cs
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\repository\orderrepository.cs
-++ProductCategoryRepository.cs
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\repository\productcategoryrepository.cs
-++ProductPictureReposiroty.cs
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\repository\productpicturereposiroty.cs
-++ProductRepository.cs
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\repository\productrepository.cs
-++SlideRepository.cs
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\repository\sliderepository.cs
-++Microsoft.EntityFrameworkCore.SqlServer (6.0.16)
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:>5044
-i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:>5050
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:>5078
-++Microsoft.EntityFrameworkCore.Tools (6.0.16)
-i:{fcceea2f-689b-4da9-9875-20d2e8309047}:>5045
-i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:>5054
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:>5079
+++Repository
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\repository\
+i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\repository\
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\repository\
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagement.infrastructure.efcore\repository\
+++ShopContext.cs
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\shopcontext.cs
+++IEntityTypeConfiguration.cs
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\mapping\ientitytypeconfiguration.cs
+++OrderMapping.cs
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\mapping\ordermapping.cs
+++ProductCategoryMapping.cs
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\mapping\productcategorymapping.cs
+++ProductMapping.cs
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\mapping\productmapping.cs
+++ProductPictureMapping.cs
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\mapping\productpicturemapping.cs
+++SlideMapping.cs
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\mapping\slidemapping.cs
 ++20230611194041_mig_initial_2.Designer.cs
 i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\migrations\20230611194041_mig_initial_2.designer.cs
 ++20230621122505_mig_product.Designer.cs
@@ -547,15 +646,26 @@ i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlin
 i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\migrations\20230729125220_remove_sthinproduct.designer.cs
 ++20230806091308_mig_Order.Designer.cs
 i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\migrations\20230806091308_mig_order.designer.cs
+++OrderRepository.cs
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\repository\orderrepository.cs
+++ProductCategoryRepository.cs
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\repository\productcategoryrepository.cs
+++ProductPictureReposiroty.cs
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\repository\productpicturereposiroty.cs
+++ProductRepository.cs
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\repository\productrepository.cs
+++SlideRepository.cs
+i:{fcceea2f-689b-4da9-9875-20d2e8309047}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagementinfrastructure.efcore\repository\sliderepository.cs
 ++ShopManagement.Configuration
 i:{017fe06c-4e98-47c4-93a0-d346b7b6f8fe}:ShopManagement.Configuration
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.configuration\bin\debug\net6.0\shopmanagement.configuration.dll
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.configuration\shopmanagement.configuration.csproj
 ++ShopManagementBootstrapper.cs
 i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.configuration\shopmanagementbootstrapper.cs
 ++Microsoft.Extensions.DependencyInjection.Abstractions (7.0.0)
-i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:>5163
-i:{7de8556a-0458-413f-a6e1-e851b3569124}:>5042
-i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:>5057
+i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:>5053
+i:{7de8556a-0458-413f-a6e1-e851b3569124}:>5169
+i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:>5060
+i:{5c38467e-60c6-4fe0-9dde-2d142830d635}:>5649
 ++ShopManagement.Infrastructure.InventoryACL
 i:{9d739b7d-325b-4091-aaad-4624ee046fa8}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\shopmanagement.infrastructure.inventoryacl\bin\debug\net6.0\shopmanagement.infrastructure.inventoryacl.dll
 i:{017fe06c-4e98-47c4-93a0-d346b7b6f8fe}:ShopManagement.Infrastructure.InventoryACL
@@ -618,7 +728,7 @@ i:{6568a34e-427c-41d5-98db-c172e10a05e1}:c:\users\s.ghiasvand\source\repos\onlin
 ++ICustomerDiscountApplication.cs
 i:{6568a34e-427c-41d5-98db-c172e10a05e1}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.application.contract\customerdiscount\icustomerdiscountapplication.cs
 ++Microsoft.AspNetCore.Mvc.ViewFeatures (2.2.0)
-i:{6568a34e-427c-41d5-98db-c172e10a05e1}:>5080
+i:{6568a34e-427c-41d5-98db-c172e10a05e1}:>5058
 ++DiscountManagement.Application
 i:{639e2f6a-9612-4824-aa05-b03662f4cab9}:DiscountManagement.Application
 i:{7de8556a-0458-413f-a6e1-e851b3569124}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.application\bin\debug\net6.0\discountmanagement.application.dll
@@ -628,12 +738,6 @@ i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:c:\users\s.ghiasvand\source\repos\onlin
 i:{b26d6525-152b-4ce7-baeb-5290fb13ef22}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.application\customerdiscountapplication.cs
 ++DM.Infrastructure
 i:{d6fbfffc-8e09-4925-b6b3-384cfd2b7e92}:DM.Infrastructure
-++DiscountContext.cs
-i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\discountcontext.cs
-++ColleagueDiscountMapping.cs
-i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\mapping\colleaguediscountmapping.cs
-++CustomerDiscountMapping.cs
-i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\mapping\customerdiscountmapping.cs
 ++20230713110640_mig_CustomerDiscount.cs
 i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\migrations\20230713110640_mig_customerdiscount.cs
 ++20230713111808_mig_CustomerDiscountReasonMAxLengh.cs
@@ -642,30 +746,62 @@ i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlin
 i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\migrations\20230719121746_mig_colleguediscount.cs
 ++DiscountContextModelSnapshot.cs
 i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\migrations\discountcontextmodelsnapshot.cs
-++ColleagueDiscountRepository.cs
-i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\repository\colleaguediscountrepository.cs
-++CustomerDiscountRepository.cs
-i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\repository\customerdiscountrepository.cs
+++DiscountContext.cs
+i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\discountcontext.cs
+++ColleagueDiscountMapping.cs
+i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\mapping\colleaguediscountmapping.cs
+++CustomerDiscountMapping.cs
+i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\mapping\customerdiscountmapping.cs
 ++20230713110640_mig_CustomerDiscount.Designer.cs
 i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\migrations\20230713110640_mig_customerdiscount.designer.cs
 ++20230713111808_mig_CustomerDiscountReasonMAxLengh.Designer.cs
 i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\migrations\20230713111808_mig_customerdiscountreasonmaxlengh.designer.cs
 ++20230719121746_mig_CollegueDiscount.Designer.cs
 i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\migrations\20230719121746_mig_colleguediscount.designer.cs
+++ColleagueDiscountRepository.cs
+i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\repository\colleaguediscountrepository.cs
+++CustomerDiscountRepository.cs
+i:{e560ca3d-098a-4714-81e0-400e0f99c1a3}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.infrastructure.efcode\repository\customerdiscountrepository.cs
 ++DiscountManagement.Configuration
 i:{fb9f4848-e3f5-440d-ace2-d4266ac2c790}:DiscountManagement.Configuration
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.configuration\bin\debug\net6.0\discountmanagement.configuration.dll
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.configuration\discountmanagement.configuration.csproj
 ++DiscountManagementBootstraper.cs
 i:{7de8556a-0458-413f-a6e1-e851b3569124}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\discountmanagement.configuration\discountmanagementbootstraper.cs
 ++InventoryManagement
 i:{00000000-0000-0000-0000-000000000000}:InventoryManagement
-++IM.Domain
-i:{2c300208-ee37-468c-9d72-3bd7ab0a0c26}:IM.Domain
+++IM.Infrastructure
+i:{2c300208-ee37-468c-9d72-3bd7ab0a0c26}:IM.Infrastructure
+++InventoryContext.cs
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\inventorycontext.cs
+++InventoryMapping.cs
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\mapping\inventorymapping.cs
+++20230720105346_mig_Inventory.cs
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\migrations\20230720105346_mig_inventory.cs
+++20230720105659_mig_InventoryOperations.cs
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\migrations\20230720105659_mig_inventoryoperations.cs
+++InventoryContextModelSnapshot.cs
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\migrations\inventorycontextmodelsnapshot.cs
+++InventoryRepository.cs
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\repository\inventoryrepository.cs
 ++InventoryManagement.Domain
-i:{00258c89-3920-4009-96bc-2dcb8ec247c1}:InventoryManagement.Domain
-i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.domain\bin\debug\net6.0\inventorymanagement.domain.dll
 i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.domain\bin\debug\net6.0\inventorymanagement.domain.dll
 i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.domain\bin\debug\net6.0\inventorymanagement.domain.dll
+i:{00258c89-3920-4009-96bc-2dcb8ec247c1}:InventoryManagement.Domain
+i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.domain\bin\debug\net6.0\inventorymanagement.domain.dll
+++20230720105346_mig_Inventory.Designer.cs
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\migrations\20230720105346_mig_inventory.designer.cs
+++20230720105659_mig_InventoryOperations.Designer.cs
+i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\migrations\20230720105659_mig_inventoryoperations.designer.cs
+++InventoryManagement.Infrastructure.Configurations
+i:{a97523e2-6550-4b24-a7fa-d9040f769870}:InventoryManagement.Infrastructure.Configurations
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.configurations\inventorymanagement.infrastructure.configurations.csproj
+++InventoryManagmentBootstrapper.cs
+i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.configurations\inventorymanagmentbootstrapper.cs
+++InventoryManagement.Application
+i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.application\bin\debug\net6.0\inventorymanagement.application.dll
+i:{b9cdc382-1afc-4e38-935d-1f16c25a2ba2}:InventoryManagement.Application
+++IM.Domain
+i:{2c300208-ee37-468c-9d72-3bd7ab0a0c26}:IM.Domain
 ++InventoryAgg
 i:{4bdb4a44-cd8d-4af6-adc8-e84b87945557}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.domain\inventoryagg\
 ++IInventoryRepository.cs
@@ -695,112 +831,89 @@ i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\users\s.ghiasvand\source\repos\onlin
 i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.application.contracts\inventory\inventorysearchmodel.cs
 ++InventoryViewModel.cs
 i:{7f6d6a0a-085f-4ef8-b5f8-5d67f427fe7b}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.application.contracts\inventory\inventoryviewmodel.cs
-++InventoryManagement.Application
-i:{b9cdc382-1afc-4e38-935d-1f16c25a2ba2}:InventoryManagement.Application
-i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.application\bin\debug\net6.0\inventorymanagement.application.dll
 ++InventoryApplication.cs
 i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.application\inventoryapplication.cs
 ++OperationResult.cs
 i:{544eb2a3-8cbd-4388-b673-3e71660516e2}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.application\operationresult.cs
-++IM.Infrastructure
-i:{2c300208-ee37-468c-9d72-3bd7ab0a0c26}:IM.Infrastructure
-++InventoryContext.cs
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\inventorycontext.cs
-++InventoryMapping.cs
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\mapping\inventorymapping.cs
-++20230720105346_mig_Inventory.cs
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\migrations\20230720105346_mig_inventory.cs
-++20230720105659_mig_InventoryOperations.cs
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\migrations\20230720105659_mig_inventoryoperations.cs
-++InventoryContextModelSnapshot.cs
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\migrations\inventorycontextmodelsnapshot.cs
-++InventoryRepository.cs
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\repository\inventoryrepository.cs
-++20230720105346_mig_Inventory.Designer.cs
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\migrations\20230720105346_mig_inventory.designer.cs
-++20230720105659_mig_InventoryOperations.Designer.cs
-i:{69de12b7-ce69-4dd8-b567-3200ce88335e}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.efcore\migrations\20230720105659_mig_inventoryoperations.designer.cs
-++InventoryManagement.Infrastructure.Configurations
-i:{a97523e2-6550-4b24-a7fa-d9040f769870}:InventoryManagement.Infrastructure.Configurations
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.configurations\bin\debug\net6.0\inventorymanagement.infrastructure.configurations.dll
-++InventoryManagmentBootstrapper.cs
-i:{9246cb9f-3c5e-400e-91ec-5193c51a4277}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\inventorymanagement.infrastructure.configurations\inventorymanagmentbootstrapper.cs
 ++ServiceHost
 i:{00000000-0000-0000-0000-000000000000}:ServiceHost
 ++Connected Services 
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:>4917
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:>4926
 ++Properties
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\properties\
 ++wwwroot
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\
 ++Areas
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\
-++Administration
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\
 ++Pages
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\
-++Discount
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\
 ++Shared
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shared\
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\
-++Shop
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\
-++Orders
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\orders\
-++ProductCategories
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productcategories\
-++Create.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productcategories\create.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productpictures\create.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\create.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\products\create.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\slides\create.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\colleaguediscount\create.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\customerdiscounts\create.cshtml
-++Edit.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productcategories\edit.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productpictures\edit.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\edit.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\products\edit.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\slides\edit.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\colleaguediscount\edit.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\customerdiscounts\edit.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shared\
+++Components
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\
+++Footer
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\footer\
+++LatestArivals
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\latestarivals\
+++Menu
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\menu\
+++ProductCategoryWithProduct
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\productcategorywithproduct\
+++_Layout.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\_validationscriptspartial.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shared\_validationscriptspartial.cshtml
+++_ViewImports.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\_viewimports.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\_viewstart.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\_viewstart.cshtml
+++Cart.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\cart.cshtml
+++Checkout.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\checkout.cshtml
+++Error.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\error.cshtml
 ++Index.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productcategories\index.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productpictures\index.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\index.cshtml
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\index.cshtml
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\index.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\orders\index.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\products\index.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\slides\index.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\index.cshtml
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\colleaguediscount\index.cshtml
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\customerdiscounts\index.cshtml
-++ProductPictures
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productpictures\
-++Products
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\products\
-++Slides
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\slides\
-++_ViewImports.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\_viewimports.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\_viewimports.cshtml
-++_ViewStart.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\_viewstart.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\_viewstart.cshtml
-++NewFolder
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\orders\index.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productcategories\index.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productpictures\index.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\products\index.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\slides\index.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\blog\articlecategories\index.cshtml
+++PaymentResult.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\paymentresult.cshtml
+++Privacy.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\privacy.cshtml
+++Product.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\product.cshtml
+++Product.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\product.cshtml.cs
+++ProductCategory.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\productcategory.cshtml
+++Search.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\search.cshtml
 ++ViewComponents
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\viewcomponents\
 ++appsettings.json
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\appsettings.json
+++appsettings.Development.json
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\appsettings.development.json
 ++FileUploader.cs
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\fileuploader.cs
 ++Program.cs
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\program.cs
 ++No service dependencies discovered
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:>4918
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:>4927
 ++launchSettings.json
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\properties\launchsettings.json
 ++AdminTheme
@@ -838,64 +951,43 @@ i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlin
 ++favicon.ico
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\favicon.ico
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\theme\assets\img\favicon.ico
-++CustomerDiscounts
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\customerdiscounts\
-++Decrease.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\decrease.cshtml
-++Increase.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\increase.cshtml
-++OperationLog.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\operationlog.cshtml
-++_AdminLayout.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shared\_adminlayout.cshtml
-++_ValidationScriptsPartial.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shared\_validationscriptspartial.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\_validationscriptspartial.cshtml
-++Items.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\orders\items.cshtml
-++Create.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productcategories\create.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productpictures\create.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\create.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\products\create.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\slides\create.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\colleaguediscount\create.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\customerdiscounts\create.cshtml.cs
-++Edit.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productcategories\edit.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productpictures\edit.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\edit.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\products\edit.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\slides\edit.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\colleaguediscount\edit.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\customerdiscounts\edit.cshtml.cs
+++Administration
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\
+++Default.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\footer\default.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\latestarivals\default.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\menu\default.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\productcategory\default.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\productcategorywithproduct\default.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\slide\default.cshtml
+++_Layout.cshtml.css
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\_layout.cshtml.css
+++Cart.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\cart.cshtml.cs
+++Checkout.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\checkout.cshtml.cs
+++Error.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\error.cshtml.cs
 ++Index.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productcategories\index.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productpictures\index.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\index.cshtml.cs
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\index.cshtml.cs
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\index.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\orders\index.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\products\index.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\slides\index.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\index.cshtml.cs
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\colleaguediscount\index.cshtml.cs
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\customerdiscounts\index.cshtml.cs
-++Cart.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\cart.cshtml
-++Checkout.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\checkout.cshtml
-++Error.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\error.cshtml
-++PaymentResult.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\paymentresult.cshtml
-++Privacy.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\privacy.cshtml
-++Product.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\product.cshtml
-++ProductCategory.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\productcategory.cshtml
-++Search.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\search.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\orders\index.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productcategories\index.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productpictures\index.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\products\index.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\slides\index.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\blog\articlecategories\index.cshtml.cs
+++PaymentResult.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\paymentresult.cshtml.cs
+++Privacy.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\privacy.cshtml.cs
+++ProductCategory.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\productcategory.cshtml.cs
+++Search.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\search.cshtml.cs
 ++FooterViewComponent.cs
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\viewcomponents\footerviewcomponent.cs
 ++LatestArivalsViewComponent.cs
@@ -908,8 +1000,6 @@ i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlin
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\viewcomponents\productcategorywithproductviewcomponent.cs
 ++SlideViewComponent.cs
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\viewcomponents\slideviewcomponent.cs
-++appsettings.Development.json
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\appsettings.development.json
 ++Microsoft.AspNetCore.Analyzers
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\program files\dotnet\sdk\6.0.413\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
 ++Microsoft.AspNetCore.App.Analyzers
@@ -927,7 +1017,7 @@ i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\program files\dotnet\sdk\6.0.413\sdk
 ++Microsoft.AspNetCore.App
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\microsoft.aspnetcore.app
 ++Nancy (2.0.0)
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:>5058
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:>4939
 ++fonts
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\admintheme\fonts\
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\assets\fonts\
@@ -1091,40 +1181,17 @@ i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlin
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\lib\jquery-validation\
 ++jquery-validation-unobtrusive
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\lib\jquery-validation-unobtrusive\
+++slides
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\slides\
 ++آباژور
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\آباژور\
 ++چراغ
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\چراغ\
 ++دکوری
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\دکوری\
-++Decrease.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\decrease.cshtml.cs
-++Increase.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\increase.cshtml.cs
-++OperationLog.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\operationlog.cshtml.cs
-++_AdminLayout.cshtml.css
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shared\_adminlayout.cshtml.css
-++Components
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\
-++_Layout.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\_layout.cshtml
-++Cart.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\cart.cshtml.cs
-++Checkout.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\checkout.cshtml.cs
-++Error.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\error.cshtml.cs
-++PaymentResult.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\paymentresult.cshtml.cs
-++Privacy.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\privacy.cshtml.cs
-++Product.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\product.cshtml.cs
-++ProductCategory.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\productcategory.cshtml.cs
-++Search.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\search.cshtml.cs
+++Default.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\latestarivals\default.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\productcategory\default.cshtml.cs
 ++glyphicons-halflings-regular.eot
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\admintheme\fonts\glyphicons-halflings-regular.eot
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\assets\fonts\glyphicons-halflings-regular.eot
@@ -1663,16 +1730,18 @@ i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlin
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\lib\jquery-validation\license.md
 ++jquery.validate.unobtrusive.js
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
-++Footer
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\footer\
-++LatestArivals
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\latestarivals\
-++Menu
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\menu\
-++ProductCategoryWithProduct
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\productcategorywithproduct\
-++_Layout.cshtml.css
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\_layout.cshtml.css
+++2023-08-16-09-22-38-slider1.jpg
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\slides\2023-08-16-09-22-38-slider1.jpg
+++2023-08-16-09-22-55-slider3.jpg
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\slides\2023-08-16-09-22-55-slider3.jpg
+++2023-08-16-09-23-05-slider3-eposi1-1820x785.jpg
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\slides\2023-08-16-09-23-05-slider3-eposi1-1820x785.jpg
+++2023-08-16-09-24-56-slider2.jpg
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\slides\2023-08-16-09-24-56-slider2.jpg
+++Discount
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\
+++Shop
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\
 ++alpha.png
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\assets\colorpicker\img\alpha.png
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\admintheme\assets\colorpicker\img\alpha.png
@@ -2029,13 +2098,44 @@ i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlin
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\theme\assets\js\plugins.js
 ++vendors.js
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\theme\assets\js\vendors.js
-++Default.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\footer\default.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\latestarivals\default.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\menu\default.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\productcategory\default.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\productcategorywithproduct\default.cshtml
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\slide\default.cshtml
+++CustomerDiscounts
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\customerdiscounts\
+++Create.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\create.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\colleaguediscount\create.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\customerdiscounts\create.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productcategories\create.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productpictures\create.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\products\create.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\slides\create.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\blog\articlecategories\create.cshtml
+++Decrease.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\decrease.cshtml
+++Edit.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\edit.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\colleaguediscount\edit.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\customerdiscounts\edit.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productcategories\edit.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productpictures\edit.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\products\edit.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\slides\edit.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\blog\articlecategories\edit.cshtml
+++Increase.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\increase.cshtml
+++OperationLog.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\operationlog.cshtml
+++_AdminLayout.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shared\_adminlayout.cshtml
+++Orders
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\orders\
+++ProductCategories
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productcategories\
+++ProductPictures
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productpictures\
+++Products
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\products\
+++Slides
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\slides\
 ++font-awesome.min.css
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\assets\font-awesome\css\font-awesome.min.css
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\admintheme\assets\font-awesome\css\font-awesome.min.css
@@ -2186,9 +2286,34 @@ i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlin
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\theme\assets\img\testimonial\testimor2-72x72.png
 ++testimor3-72x72.png
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\theme\assets\img\testimonial\testimor3-72x72.png
-++Default.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\latestarivals\default.cshtml.cs
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\pages\shared\components\productcategory\default.cshtml.cs
+++Create.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\create.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\colleaguediscount\create.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\customerdiscounts\create.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productcategories\create.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productpictures\create.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\products\create.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\slides\create.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\blog\articlecategories\create.cshtml.cs
+++Decrease.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\decrease.cshtml.cs
+++Edit.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\edit.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\colleaguediscount\edit.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\discount\customerdiscounts\edit.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productcategories\edit.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\productpictures\edit.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\products\edit.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\slides\edit.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\blog\articlecategories\edit.cshtml.cs
+++Increase.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\increase.cshtml.cs
+++OperationLog.cshtml.cs
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\inventory\operationlog.cshtml.cs
+++_AdminLayout.cshtml.css
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shared\_adminlayout.cshtml.css
+++Items.cshtml
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\shop\orders\items.cshtml
 ++bootstrap.rtl.css
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
 ++bootstrap-grid.css.map
@@ -2273,13 +2398,43 @@ i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlin
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
 ++bootstrap.esm.min.js.map
 i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-++slides
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\slides\
-++2023-08-16-09-22-38-slider1.jpg
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\slides\2023-08-16-09-22-38-slider1.jpg
-++2023-08-16-09-22-55-slider3.jpg
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\slides\2023-08-16-09-22-55-slider3.jpg
-++2023-08-16-09-23-05-slider3-eposi1-1820x785.jpg
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\slides\2023-08-16-09-23-05-slider3-eposi1-1820x785.jpg
-++2023-08-16-09-24-56-slider2.jpg
-i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\slides\2023-08-16-09-24-56-slider2.jpg
+++NewFolder
+++ArticleCategoryRepository.cs
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagement.infrastructure.efcore\repository\articlecategoryrepository.cs
+++Solution 'OnlineShop' ‎(24 of 24 projects)
+i:{00000000-0000-0000-0000-000000000000}:OnlineShop.sln
+++BlogManagment.Infrastructure.Configuration
+i:{99472c50-9d1b-4067-82e1-6207343a0d76}:BlogManagment.Infrastructure.Configuration
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.infrastructure.configuration\blogmanagment.infrastructure.configuration.csproj
+++Class1.cs
+++C:\Program Files\dotnet\sdk\6.0.413\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.413\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+++BlogBootstrapper.cs
+++BlogManagmentBootstrapper.cs
+i:{5c38467e-60c6-4fe0-9dde-2d142830d635}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagment.infrastructure.configuration\blogmanagmentbootstrapper.cs
+++Blog
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\blog\
+++ArticleCategories
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\areas\administration\pages\blog\articlecategories\
+++20230816131531_mig_ArticleCategory.cs
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagement.infrastructure.efcore\migrations\20230816131531_mig_articlecategory.cs
+++BlogContextModelSnapshot.cs
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagement.infrastructure.efcore\migrations\blogcontextmodelsnapshot.cs
+++20230816131531_mig_ArticleCategory.Designer.cs
+i:{e9c5c0a2-791c-4245-9c4d-71608628e98d}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\blogmanagement.infrastructure.efcore\migrations\20230816131531_mig_articlecategory.designer.cs
+++name-na
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\name-na\
+++2023-08-16-16-54-16-2-600x800.jpg
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\name-na\2023-08-16-16-54-16-2-600x800.jpg
+++2023-08-16-16-54-28-2-600x800.jpg
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\name-na\2023-08-16-16-54-28-2-600x800.jpg
+++2023-08-16-16-54-45-2-600x800.jpg
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\name-na\2023-08-16-16-54-45-2-600x800.jpg
+++2023-08-16-16-56-34-1-600x800.jpg
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\name-na\2023-08-16-16-56-34-1-600x800.jpg
+++12
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\12\
+++2023-08-16-17-01-21-2_1-600x800.jpg
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\12\2023-08-16-17-01-21-2_1-600x800.jpg
+++2023-08-16-17-01-29-2_1-600x800.jpg
+i:{afd4d45d-e93c-48f3-bece-bb776f37bbe6}:c:\users\s.ghiasvand\source\repos\onlineshop_2\onlineshop\servicehost\wwwroot\uploadedfiles\12\2023-08-16-17-01-29-2_1-600x800.jpg
