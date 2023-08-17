@@ -11,6 +11,8 @@ namespace BlogManagment.Domain.ArticleAgg
     public interface IArticleRepository : Irepository<long,Article>
     {
         EditArticle GetDetails(long id);
+        Article GetWithCategory(long id);
         List<ArticleViewModel> Search(ArticleSearchModel searchModel);
+        Article CreateArticle(CreateArticle commad);  
     }
 }
