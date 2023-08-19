@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\01_Query\01_Query.csproj" />
     <ProjectReference Include="..\BlogManagement.Infrastructure.EFCore\BlogManagement.Infrastructure.EFCore.csproj" />
     <ProjectReference Include="..\BlogManagment.Application.Contracts\BlogManagment.Application.Contracts.csproj" />
     <ProjectReference Include="..\BlogManagment.Application\BlogManagment.Application.csproj" />

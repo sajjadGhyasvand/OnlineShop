@@ -99,3 +99,9 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configu
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\obj\Debug\net6.0\ShopManagement.Configuration.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\obj\Debug\net6.0\ref\ShopManagement.Configuration.dll
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\obj\Debug\net6.0\ShopManagement.Configuration.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\BlogManagement.Infrastructure.EFCore.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\BlogManagment.Application.Contracts.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\BlogManagment.Domain.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\BlogManagement.Infrastructure.EFCore.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\BlogManagment.Application.Contracts.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\BlogManagment.Domain.pdb

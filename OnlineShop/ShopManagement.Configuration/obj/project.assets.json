@@ -2369,6 +2369,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "BlogManagement.Infrastructure.EFCore": "1.0.0",
           "DiscountManagement.Infrastructure.EFCore": "1.0.0",
           "InventoryManagement.Infrastructure.EFCore": "1.0.0",
           "ShopManagementInfrastructure.EFCore": "1.0.0"
@@ -2395,6 +2396,49 @@
         },
         "runtime": {
           "bin/placeholder/0_FrameWork.dll": {}
+        }
+      },
+      "BlogManagement.Infrastructure.EFCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BlogManagment.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.16",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.16"
+        },
+        "compile": {
+          "bin/placeholder/BlogManagement.Infrastructure.EFCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlogManagement.Infrastructure.EFCore.dll": {}
+        }
+      },
+      "BlogManagment.Application.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "0_FrameWork": "1.0.0",
+          "Microsoft.AspNetCore.Http.Features": "5.0.17"
+        },
+        "compile": {
+          "bin/placeholder/BlogManagment.Application.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlogManagment.Application.Contracts.dll": {}
+        }
+      },
+      "BlogManagment.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "0_FrameWork": "1.0.0",
+          "BlogManagment.Application.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BlogManagment.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlogManagment.Domain.dll": {}
         }
       },
       "DiscountManagement.Application.Contract/1.0.0": {
@@ -7867,6 +7911,21 @@
       "type": "project",
       "path": "../0_FrameWork/0_FrameWork.csproj",
       "msbuildProject": "../0_FrameWork/0_FrameWork.csproj"
+    },
+    "BlogManagement.Infrastructure.EFCore/1.0.0": {
+      "type": "project",
+      "path": "../BlogManagement.Infrastructure.EFCore/BlogManagement.Infrastructure.EFCore.csproj",
+      "msbuildProject": "../BlogManagement.Infrastructure.EFCore/BlogManagement.Infrastructure.EFCore.csproj"
+    },
+    "BlogManagment.Application.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../BlogManagment.Application.Contracts/BlogManagment.Application.Contracts.csproj",
+      "msbuildProject": "../BlogManagment.Application.Contracts/BlogManagment.Application.Contracts.csproj"
+    },
+    "BlogManagment.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BlogManagment.Domain/BlogManagment.Domain.csproj",
+      "msbuildProject": "../BlogManagment.Domain/BlogManagment.Domain.csproj"
     },
     "DiscountManagement.Application.Contract/1.0.0": {
       "type": "project",

@@ -1,4 +1,7 @@
-﻿using BlogManagement.Infrastructure.EFCore;
+﻿using _01_Query.Contract.Article;
+using _01_Query.Contract.ArticleCategory;
+using _01_Query.Contract.Query;
+using BlogManagement.Infrastructure.EFCore;
 using BlogManagement.Infrastructure.EFCore.Repository;
 using BlogManagment.Application;
 using BlogManagment.Application.Contracts.Article;
@@ -19,6 +22,10 @@ namespace BlogManagment.Infrastructure.Configuration
 
             services.AddTransient<IArticleRepository, ArticleRepository>();
             services.AddTransient<IArticleApplication, ArticleApplication>();
+
+
+            services.AddTransient<IArticleQuery, ArticleQuery>();
+            services.AddTransient<IArticleCategoryQuery, ArticleCategoryQuery>();
 
             services.AddDbContext<BlogContext>(x => x.UseSqlServer(connectionString));
         }

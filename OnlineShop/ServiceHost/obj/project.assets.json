@@ -2623,6 +2623,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "BlogManagement.Infrastructure.EFCore": "1.0.0",
           "DiscountManagement.Infrastructure.EFCore": "1.0.0",
           "InventoryManagement.Infrastructure.EFCore": "1.0.0",
           "ShopManagementInfrastructure.EFCore": "1.0.0"
@@ -2712,6 +2713,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "01_Query": "1.0.0",
           "BlogManagement.Infrastructure.EFCore": "1.0.0",
           "BlogManagment.Application": "1.0.0",
           "BlogManagment.Application.Contracts": "1.0.0",

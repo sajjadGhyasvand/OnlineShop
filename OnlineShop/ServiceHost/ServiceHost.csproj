@@ -35,4 +35,8 @@
     <Folder Include="wwwroot\UploadedFiles\چراغ\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="Pages\Shared\Components\LatestArticles\Default.cshtml" />
+  </ItemGroup>
+
 </Project>
