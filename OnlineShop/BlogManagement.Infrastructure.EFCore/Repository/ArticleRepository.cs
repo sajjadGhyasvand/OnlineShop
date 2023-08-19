@@ -47,23 +47,25 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
             };
             return article;         
         }
-        
+
         public EditArticle GetDetails(long id)
         {
-            return _context.Articles.Select(a => new EditArticle
+            return _context.Articles.Select(x => new EditArticle
             {
-                CanonicalAddress = a.CanonicalAddress,
-                CategoryId = a.CategoryId,
-                Description = a.Description,
-                Keywords = a.Keywords,
-                MetaDescription = a.MetaDescription,
-                PictureAlt = a.PictureAlt,
-                PictureTitle = a.PictureTitle,
-                PublishDate = a.PublishDate.ToFarsi(),
-                ShortDescription = a.ShortDescription,
-                Slug = a.Slug,
-                Title = a.Title,
-            }).FirstOrDefault(a => a.Id == id);
+                Id = x.Id,
+                CanonicalAddress = x.CanonicalAddress,
+                CategoryId = x.CategoryId,
+                Description = x.Description,
+                Keywords = x.Keywords,
+                MetaDescription = x.MetaDescription,
+                PictureAlt = x.PictureAlt,
+                PictureTitle = x.PictureTitle,
+                PublishDate = x.PublishDate.ToFarsi(),
+                ShortDescription = x.ShortDescription,
+                Slug = x.Slug,
+                Title = x.Title
+                
+            }).FirstOrDefault(x => x.Id == id);
         }
 
         public Article GetWithCategory(long id)
