@@ -10,22 +10,21 @@ namespace ServiceHost.Areas.Administration.Pages.Blog.Articles
 {
     public class CreateModel : PageModel
     {
-        public SelectList ArticleCategories;
         public CreateArticle Command;
-  
-        private readonly IArticleCategoryApplication _articleCategoryApplication;
+        public SelectList ArticleCategories;
+
         private readonly IArticleApplication _articleApplication;
-        private readonly IPorductApplication _productApplication;
-        public CreateModel(IArticleCategoryApplication articleCategoryApplication, IArticleApplication articleApplication, IPorductApplication productApplication)
+        private readonly IArticleCategoryApplication _articleCategoryApplication;
+
+        public CreateModel(IArticleApplication articleApplication, IArticleCategoryApplication articleCategoryApplication)
         {
-            _articleCategoryApplication=articleCategoryApplication;
-            _articleApplication=articleApplication;
-            _productApplication=productApplication;
+            _articleApplication = articleApplication;
+            _articleCategoryApplication = articleCategoryApplication;
         }
 
         public void OnGet()
         {
-            ArticleCategories = new SelectList(_articleCategoryApplication.GetArticleCategories(),"Id","Name");
+            ArticleCategories = new SelectList(_articleCategoryApplication.GetArticleCategories(), "Id", "Name");
         }
 
         public IActionResult OnPost(CreateArticle command)

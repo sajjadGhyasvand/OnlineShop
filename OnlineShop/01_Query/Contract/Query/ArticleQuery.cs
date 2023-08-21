@@ -18,9 +18,10 @@ namespace _01_Query.Contract.Query
 
         public ArticleQueryModel GetArticleDetails(string slug)
         {
+            var article2 = _context.Articles.ToList();
             var article = _context.Articles
                .Include(x => x.Category)
-               .Where(x => x.PublishDate <= DateTime.Now)
+               /*.Where(x => x.PublishDate <= DateTime.Now)*/
                .Select(x => new ArticleQueryModel
                {
                    Id = x.Id,
