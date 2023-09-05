@@ -1,4 +1,5 @@
-﻿using _01_Query.Contract.Article;
+﻿using _0_FrameWork.Application;
+using _01_Query.Contract.Article;
 using _01_Query.Contract.ArticleCategory;
 using BlogManagement.Infrastructure.EFCore;
 using Microsoft.EntityFrameworkCore;
@@ -29,12 +30,9 @@ namespace _01_Query.Contract.Query
                 }).ToList();
         }
 
-        public ArticleCategoryQueryModel GetArticleCategory(string slug)
-        {
-            throw new NotImplementedException();
-        }
+        
 
-        /* public ArticleCategoryQueryModel GetArticleCategory(string slug)
+         public ArticleCategoryQueryModel GetArticleCategory(string slug)
          {
              var articleCategory = _context.ArticleCategories
                  .Include(x => x.Articles)
@@ -46,7 +44,7 @@ namespace _01_Query.Contract.Query
                      Picture = x.Picture,
                      PictureAlt = x.PictureAlt,
                      PictureTitle = x.PictureTitle,
-                     Keywords = x.Keywords,
+                     Keywords = x.KeyWords,
                      MetaDescription = x.MetaDescription,
                      CanonicalAddress = x.CanonicalAddress,
                      ArticlesCount = x.Articles.Count,
@@ -57,9 +55,9 @@ namespace _01_Query.Contract.Query
                  articleCategory.KeywordList = articleCategory.Keywords.Split(",").ToList();
 
              return articleCategory;
-         }*/
+         }
 
-        /* private static List<ArticleQueryModel> MapArticles(List<Article> articles)
+         private static List<ArticleQueryModel> MapArticles(List<BlogManagment.Domain.ArticleAgg.Article> articles)
          {
              return articles.Select(x => new ArticleQueryModel
              {
@@ -71,6 +69,6 @@ namespace _01_Query.Contract.Query
                  PictureTitle = x.PictureTitle,
                  PublishDate = x.PublishDate.ToFarsi(),
              }).ToList();
-         }*/
+         }
     }
 }

@@ -1,5 +1,5 @@
-﻿@using _01_Query.Contract.ProductCategory
-@model List<ProductCategoryQueryModel>
+﻿@using _01_Query.Contract
+@model MenuModel
 
 
 <div class="header-area header-sticky">
@@ -21,7 +21,7 @@
                                 <li class="menu-item-has-children">
                                     <a>محصولات</a>
                                     <ul class="sub-menu">
-                                       @foreach (var category in Model)
+                                       @foreach (var category in Model.ProductCategories)
                                         {
                                             <li>
                                                 <a asp-page="./ProductCategory" asp-route-id="@category.Slug">@category.Name</a>
@@ -32,12 +32,12 @@
                                 <li class="menu-item-has-children">
                                     <a>مقالات</a>
                                     <ul class="sub-menu">
-                                       @* @foreach (var category in Model.ArticleCategories)
+                                        @foreach (var category in Model.ArticleCategories)
                                         {
                                             <li>
                                                 <a asp-page="./ArticleCategory" asp-route-id="@category.Slug">@category.Name</a>
                                             </li>
-                                        }*@
+                                        }
                                     </ul>
                                 </li>
                                 <li>
