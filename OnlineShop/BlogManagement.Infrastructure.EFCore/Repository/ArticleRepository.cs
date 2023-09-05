@@ -83,7 +83,7 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
                 CategoryId=x.CategoryId,
                 Picture = x.Picture,
                 PublishDate= x.PublishDate.ToFarsi(),
-                ShortDescription = x.ShortDescription
+                ShortDescription = x.ShortDescription.Substring(0, Math.Min(x.ShortDescription.Length , 50)),
             });
             if (!string.IsNullOrWhiteSpace(searchModel.Title))
                 query = query.Where(x => x.Title.Contains(searchModel.Title));

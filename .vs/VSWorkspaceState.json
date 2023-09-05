@@ -8,6 +8,10 @@
     "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages",
     "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Blog",
     "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Blog\\ArticleCategories",
+    "\\OnlineShop\\ServiceHost\\Pages",
+    "\\OnlineShop\\ServiceHost\\Pages\\Shared",
+    "\\OnlineShop\\ServiceHost\\Pages\\Shared\\Components",
+    "\\OnlineShop\\ServiceHost\\Pages\\Shared\\Components\\LatestArticles",
     "\\OnlineShop\\ShopManagementInfrastructure.EFCore",
     "\\OnlineShop\\ShopManagementInfrastructure.EFCore\\Repository"
   ],
