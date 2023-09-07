@@ -6,6 +6,8 @@ using DiscountManagement.Configuration;
 using InventoryManagement.Infrastructure.Configurations;
 using ServiceHost;
 using ShopManagement.Configuration;
+using System.Text.Encodings.Web;
+using System.Text.Unicode;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +19,7 @@ DiscountManagementBootstraper.Configure(builder.Services, connectionstring);
 InventoryManagmentBootstrapper.Configure(builder.Services, connectionstring);
 BlogManagmentBootstrapper.Configure(builder.Services, connectionstring);
 builder.Services.AddTransient<IZarinPalFactory,ZarinPalFactory>();
+builder.Services.AddSingleton(HtmlEncoder.Create(UnicodeRanges.BasicLatin, UnicodeRanges.Arabic));
 builder.Services.AddTransient<IFileUploader, FileUploader>();
 builder.Services.AddRazorPages();
 
