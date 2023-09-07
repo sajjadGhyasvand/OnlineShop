@@ -217,8 +217,8 @@
                                                 <a class="nav-item nav-link active" id="description-tab"
                                                    data-toggle="tab" href="#product-description" role="tab"
                                                    aria-selected="true">توضیحات</a>
-                                               @* <a class="nav-item nav-link" id="review-tab" data-toggle="tab"
-                                                   href="#review" role="tab" aria-selected="false">نظرات (@Model.Product.Comments.Count)</a>*@
+                                                <a class="nav-item nav-link" id="review-tab" data-toggle="tab"
+                                                   href="#review" role="tab" aria-selected="false">نظرات (@Model.Product.Comments.Count)</a>
                                             </div>
                                         </nav>
                                         <div class="tab-content" id="nav-tabContent">
@@ -232,7 +232,7 @@
                                                  aria-labelledby="review-tab">
                                                 <div class="product-rating-wrap">
                                                 
-                                                   @* @foreach (var comment in Model.Product.Comments)
+                                                    @foreach (var comment in Model.Product.Comments)
                                                     {
                                                         <div class="ratings-wrapper">
                                                             <div class="sin-ratings">
@@ -241,7 +241,7 @@
                                                                 <p>@comment.Message</p>
                                                             </div>
                                                         </div>
-                                                    }*@
+                                                    }
 
                                                     <div class="rating-form-wrapper fix">
                                                         <h3>نظر خود را به ما بگویید</h3>

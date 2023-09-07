@@ -317,3 +317,13 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\BlogManagment.Application.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\BlogManagment.Application.Contracts.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\BlogManagment.Domain.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\CommentManagement.Application.Contracts.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\CommentManagement.Application.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\CommentManagement.Domain.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\CommentManagement.Infrastructure.Configuration.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\CommentManagement.Infrastructure.EfCore.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\CommentManagement.Infrastructure.Configuration.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\CommentManagement.Application.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\CommentManagement.Application.Contracts.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\CommentManagement.Domain.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\CommentManagement.Infrastructure.EfCore.pdb
