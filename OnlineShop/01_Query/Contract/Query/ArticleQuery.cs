@@ -1,6 +1,8 @@
 ﻿using _0_FrameWork.Application;
+using _01_LampshadeQuery.Contract.Comment;
 using _01_Query.Contract.Article;
 using BlogManagement.Infrastructure.EFCore;
+using CommentManagement.Infrastructure.EfCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace _01_Query.Contract.Query
@@ -8,12 +10,12 @@ namespace _01_Query.Contract.Query
     public class ArticleQuery : IArticleQuery
     {
         private readonly BlogContext _context;
-       /* private readonly CommentContext _commentContext;*/
+        private readonly CommentContext _commentContext;
 
-        public ArticleQuery(BlogContext context/*, CommentContext commentContext*/)
+        public ArticleQuery(BlogContext context, CommentContext commentContext)
         {
             _context = context;
-           /* _commentContext = commentContext;*/
+            _commentContext = commentContext;
         }
 
         public ArticleQueryModel GetArticleDetails(string slug)
@@ -44,7 +46,7 @@ namespace _01_Query.Contract.Query
                 article.KeywordList = article.Keywords.Split(",").ToList();
 
 
-            /*  var comments = _commentContext.Comments
+              var comments = _commentContext.Comments
                   .Where(x => !x.IsCanceled)
                   .Where(x => x.IsConfirmed)
                   .Where(x => x.Type == CommentType.Article)
@@ -65,7 +67,7 @@ namespace _01_Query.Contract.Query
               }
 
               article.Comments = comments;
-            */
+            
             return article;
         }
 
