@@ -218,7 +218,7 @@
                                                    data-toggle="tab" href="#product-description" role="tab"
                                                    aria-selected="true">توضیحات</a>
                                                 <a class="nav-item nav-link" id="review-tab" data-toggle="tab"
-                                                   href="#review" role="tab" aria-selected="false">نظرات (@*@Model.Product.Comments.Count*@)</a>
+                                                   href="#review" role="tab" aria-selected="false">نظرات (@Model.Product.Comments.Count)</a>
                                             </div>
                                         </nav>
                                         <div class="tab-content" id="nav-tabContent">
@@ -260,7 +260,6 @@
                                                                     <textarea name="message" id="message" placeholder="نظر خود را بنویسید ..."></textarea>
                                                                 </div>
                                                                 <input type="hidden" name="ownerRecordId" value="@Model.Product.Id" />
-                                                                @*<input type="hidden" name="type" value="@CommnetManagement.Infrastructure.EFCore.CommentType.Product" />*@
                                                                 <input type="hidden" name="productSlug" value="@Model.Product.Slug" />
                                                                 <div class="col-12">
                                                                     <input value="ارسال" type="submit">

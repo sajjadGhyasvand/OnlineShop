@@ -2624,6 +2624,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "BlogManagement.Infrastructure.EFCore": "1.0.0",
+          "CommentManagement.Infrastructure.EfCore": "1.0.0",
           "DiscountManagement.Infrastructure.EFCore": "1.0.0",
           "InventoryManagement.Infrastructure.EFCore": "1.0.0",
           "ShopManagementInfrastructure.EFCore": "1.0.0"

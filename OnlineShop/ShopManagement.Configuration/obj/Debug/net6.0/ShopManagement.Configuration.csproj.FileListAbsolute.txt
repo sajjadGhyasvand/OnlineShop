@@ -105,3 +105,9 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configu
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\BlogManagement.Infrastructure.EFCore.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\BlogManagment.Application.Contracts.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\BlogManagment.Domain.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\CommentManagement.Application.Contracts.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\CommentManagement.Domain.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\CommentManagement.Infrastructure.EfCore.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\CommentManagement.Application.Contracts.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\CommentManagement.Domain.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\CommentManagement.Infrastructure.EfCore.pdb
