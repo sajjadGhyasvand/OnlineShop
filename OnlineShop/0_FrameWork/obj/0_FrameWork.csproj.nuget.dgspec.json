@@ -44,6 +44,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.AspNetCore.Http.Features": {
               "target": "Package",
               "version": "[5.0.17, )"
@@ -55,6 +59,10 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.16, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "RestSharp": {
               "target": "Package",

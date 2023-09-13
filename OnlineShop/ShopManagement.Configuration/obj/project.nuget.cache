@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aJ7BvC6S76WoqSIlYYVvNN4muhsCJxXGPUjVF6ib6CV4z9N1DVrHjUgvJnG2w4WK7foOC+O59xcIv84NMfGT9g==",
+  "dgSpecHash": "rxCFbzDEYIOG2tuyMRlfipSytsz9X0Osn63A9lQ8LWHmmvw6DqO4bwjGOaIrs3JEj6duQODVwN9NIMuGSbtq7g==",
   "success": true,
   "projectFilePath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
+    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.aspnetcore.authorization.policy\\2.2.0\\microsoft.aspnetcore.authorization.policy.2.2.0.nupkg.sha512",
@@ -68,7 +70,7 @@
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
-    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
     "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\restsharp.serializers.systemtextjson\\106.15.0\\restsharp.serializers.systemtextjson.106.15.0.nupkg.sha512",
