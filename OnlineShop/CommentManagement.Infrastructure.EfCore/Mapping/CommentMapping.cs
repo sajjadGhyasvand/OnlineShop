@@ -10,10 +10,12 @@ namespace CommentManagement.Infrastructure.EfCore.Mapping
         {
             builder.ToTable("Comments");
             builder.HasKey(x => x.Id);
+
             builder.Property(x => x.Name).HasMaxLength(500);
             builder.Property(x => x.Email).HasMaxLength(500);
             builder.Property(x => x.Website).HasMaxLength(500);
             builder.Property(x => x.Message).HasMaxLength(1000);
         }
+       
     }
 }

@@ -37,6 +37,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Areas\Administration\Pages\Comments\Index.cshtml" />
     <None Include="Pages\Shared\Components\LatestArticles\Default.cshtml" />
   </ItemGroup>
 
