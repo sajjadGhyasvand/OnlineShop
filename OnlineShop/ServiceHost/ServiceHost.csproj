@@ -22,6 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AccountManagment.Infrastructure.Configuration\AccountManagment.Infrastructure.Configuration.csproj" />
     <ProjectReference Include="..\BlogManagment.Infrastructure.Configuration\BlogManagment.Infrastructure.Configuration.csproj" />
     <ProjectReference Include="..\CommentManagement.Infrastructure.Configuration\CommentManagement.Infrastructure.Configuration.csproj" />
     <ProjectReference Include="..\DiscountManagement.Configuration\DiscountManagement.Configuration.csproj" />

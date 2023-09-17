@@ -327,3 +327,13 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\CommentManagement.Application.Contracts.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\CommentManagement.Domain.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\CommentManagement.Infrastructure.EfCore.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\AccountManagement.Application.Contracts.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\AccountManagement.Application.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\AccountManagement.Domain.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\AccountManagement.Infrastructure.EFCore.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\AccountManagment.Infrastructure.Configuration.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\AccountManagment.Infrastructure.Configuration.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\AccountManagement.Application.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\AccountManagement.Application.Contracts.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\AccountManagement.Domain.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\AccountManagement.Infrastructure.EFCore.pdb
