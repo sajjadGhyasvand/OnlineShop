@@ -1817,6 +1817,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\01_Query\\01_Query.csproj": {
+                "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\01_Query\\01_Query.csproj"
+              },
               "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\InventoryManagement.Application\\InventoryManagement.Application.csproj": {
                 "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\InventoryManagement.Application\\InventoryManagement.Application.csproj"
               },
@@ -1946,6 +1949,86 @@
         }
       }
     },
+    "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\InventoryManagement.Presentation.API\\InventoryManagement.Presentation.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\InventoryManagement.Presentation.API\\InventoryManagement.Presentation.API.csproj",
+        "projectName": "InventoryManagement.Presentation.API",
+        "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\InventoryManagement.Presentation.API\\InventoryManagement.Presentation.API.csproj",
+        "packagesPath": "C:\\Users\\S.Ghiasvand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\InventoryManagement.Presentation.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\S.Ghiasvand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\01_Query\\01_Query.csproj": {
+                "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\01_Query\\01_Query.csproj"
+              },
+              "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\InventoryManagement.Application.Contracts\\InventoryManagement.Application.Contract.csproj": {
+                "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\InventoryManagement.Application.Contracts\\InventoryManagement.Application.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ServiceHost\\ServiceHost.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -1989,6 +2072,9 @@
               "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\InventoryManagement.Infrastructure.Configurations\\InventoryManagement.Infrastructure.Configurations.csproj": {
                 "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\InventoryManagement.Infrastructure.Configurations\\InventoryManagement.Infrastructure.Configurations.csproj"
               },
+              "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\InventoryManagement.Presentation.API\\InventoryManagement.Presentation.API.csproj": {
+                "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\InventoryManagement.Presentation.API\\InventoryManagement.Presentation.API.csproj"
+              },
               "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj": {
                 "projectPath": "C:\\Users\\S.Ghiasvand\\Source\\Repos\\OnlineShop_2\\OnlineShop\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj"
               }
@@ -2005,6 +2091,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

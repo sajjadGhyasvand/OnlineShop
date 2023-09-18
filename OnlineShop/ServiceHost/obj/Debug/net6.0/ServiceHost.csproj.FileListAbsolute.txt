@@ -337,3 +337,14 @@ C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\AccountManagement.Application.Contracts.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\AccountManagement.Domain.pdb
 C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\AccountManagement.Infrastructure.EFCore.pdb
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Presentation.API.dll
+C:\Users\S.Ghiasvand\Source\Repos\OnlineShop_2\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Presentation.API.pdb

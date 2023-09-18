@@ -15,6 +15,7 @@ namespace InventoryManagement.Application
             _inventoryRepository = inventoryRepository;
         }
 
+
         public OprationResult Create(CreateInventory command)
         {
             var operation = new OprationResult();
