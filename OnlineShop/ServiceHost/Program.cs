@@ -1,5 +1,7 @@
 using _0_Framework.Application.ZarinPal;
 using _0_FrameWork.Application;
+using _0_FrameWork.Application.Email;
+using _0_FrameWork.Application.Sms;
 using _0_FrameWork.Application.ZarinPal;
 using BlogManagment.Infrastructure.Configuration;
 using CommentManagement.Infrastructure.Configuration;
@@ -22,6 +24,8 @@ InventoryManagmentBootstrapper.Configure(builder.Services, connectionstring);
 BlogManagmentBootstrapper.Configure(builder.Services, connectionstring);
 CommentManagementBootstrapper.Configure(builder.Services, connectionstring);
 builder.Services.AddTransient<IZarinPalFactory,ZarinPalFactory>();
+builder.Services.AddTransient<ISmsService, SmsService>();
+builder.Services.AddTransient<IEmailService, EmailService>();
 builder.Services.AddSingleton(HtmlEncoder.Create(UnicodeRanges.BasicLatin, UnicodeRanges.Arabic));
 builder.Services.AddTransient<IFileUploader, FileUploader>();
 builder.Services.AddCors(options => options.AddPolicy("MyPolicy", builder => builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyMethod()));

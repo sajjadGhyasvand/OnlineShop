@@ -44,6 +44,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.Cookies": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -60,6 +64,10 @@
               "target": "Package",
               "version": "[6.0.16, )"
             },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -71,6 +79,10 @@
             "RestSharp.Serializers.SystemTextJson": {
               "target": "Package",
               "version": "[106.15.0, )"
+            },
+            "SmsIrRestful": {
+              "target": "Package",
+              "version": "[1.1.3, )"
             }
           },
           "imports": [

@@ -2,13 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\OnlineShop",
-    "\\OnlineShop\\AccountManagement.Domain",
-    "\\OnlineShop\\AccountManagement.Domain\\AccountAgg",
-    "\\OnlineShop\\AccountManagment.Infrastructure.Configuration",
     "\\OnlineShop\\ServiceHost",
+    "\\OnlineShop\\ServiceHost\\Areas",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop",
+    "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Orders",
     "\\OnlineShop\\ShopManagementInfrastructure.EFCore",
     "\\OnlineShop\\ShopManagementInfrastructure.EFCore\\Repository"
   ],
-  "SelectedNode": "\\OnlineShop\\OnlineShop.sln",
+  "SelectedNode": "\\OnlineShop\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Orders\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

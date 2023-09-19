@@ -195,7 +195,12 @@
       "ProjectGuid": "e45fd2bc-820b-4ffe-82b9-17166a4c41e0",
       "DisplayName": "AccountManagment.Infrastructure.Configuration",
       "ColorIndex": 5
+    },
+    "a4a91594-1add-4fa4-8190-8fe0b22f7d07": {
+      "ProjectGuid": "a4a91594-1add-4fa4-8190-8fe0b22f7d07",
+      "DisplayName": "InventoryManagement.Presentation.API",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }

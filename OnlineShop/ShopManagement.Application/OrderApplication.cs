@@ -1,5 +1,6 @@
 ﻿
 using _0_Framework.Application;
+using _0_FrameWork.Application.Sms;
 using ShopManagement.Application.Contracts.Order;
 using ShopManagement.Domain.OrderAgg;
 using ShopManagement.Domain.Services;
@@ -12,18 +13,18 @@ namespace ShopManagement.Application
         private readonly IConfiguration _configuration;*/
         private readonly IOrderRepository _orderRepository;
         private readonly IShopInventoryAcl _shopInventoryAcl;
-        /*private readonly ISmsService _smsService;
-        private readonly IShopAccountAcl _shopAccountAcl;*/
+        private readonly ISmsService _smsService;
+        private readonly IShopAccountAcl _shopAccountAcl;
 
-        public OrderApplication(IOrderRepository orderRepository, IShopInventoryAcl shopInventoryAcl/*, IAuthHelper authHelper, IConfiguration configuration,
-            , ISmsService smsService, IShopAccountAcl shopAccountAc*/)
+        public OrderApplication(IOrderRepository orderRepository, IShopInventoryAcl shopInventoryAcl/*, IAuthHelper authHelper, IConfiguration configuration,*/
+            , ISmsService smsService, IShopAccountAcl shopAccountAcl)
         {
             _orderRepository = orderRepository;
             _shopInventoryAcl = shopInventoryAcl;
             /*_authHelper = authHelper;
-            _configuration = configuration;
+            _configuration = configuration;*/
             _smsService = smsService;
-            _shopAccountAcl = shopAccountAcl;*/
+            _shopAccountAcl = shopAccountAcl;
         }
 
         public long PlaceOrder(Cart cart)
@@ -66,10 +67,10 @@ namespace ShopManagement.Application
 
             _orderRepository.SaveChanges();
 
-           /* var (name, mobile) = _shopAccountAcl.GetAccountBy(order.AccountId);*/
+            var (name, mobile) = _shopAccountAcl.GetAccountBy(order.AccountId);
 
-            /*_smsService.Send(mobile,
-                $"{name} گرامی سفارش شما با شماره پیگیری {issueTrackingNo} با موفقیت پرداخت شد و ارسال خواهد شد.");*/
+            _smsService.Send(mobile,
+                $"{name} گرامی سفارش شما با شماره پیگیری {issueTrackingNo} با موفقیت پرداخت شد و ارسال خواهد شد.");
            return issueTrackingNo;
         }
 
